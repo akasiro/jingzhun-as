@@ -1,0 +1,1041 @@
+,name,url,info,industry,turn,city
+0,REAL ID,company/82649055,新加坡数字身份认证服务平台,industry.AI,phase.SEED,city.海外
+1,PlusAI,company/8167400,无人驾驶机动车研发商,industry.AI,phase.A_PLUS,city.海外
+2,AnyVision,company/24796872,以色列视觉识别技术研发商,industry.AI,phase.A,city.海外
+3,DFKI,company/77097203,德国人工智能技术研发商,industry.AI,phase.INFORMAL,city.海外
+4,Neurogress,company/34861511,瑞士AI神经网络控制系统研发商,industry.AI,phase.NONE,city.海外
+5,Hover,company/88219058,房屋3D建模应用开发商,industry.AI,phase.C,city.海外
+6,MTailor,company/18787593,美国人工智能男装定制电商平台,industry.E_COMMERCE,phase.A,city.海外
+7,AIDA Technologies,company/34382306,新加坡AI决策分析系统研发商,industry.AI,phase.A,city.海外
+8,Paperspace,company/1905720,美国AI应用开发平台提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+9,富安投,company/97961183,韩国智能投顾服务提供商,industry.FINANCE,phase.NONE,city.海外
+10,Passage AI,company/50031869,美国聊天机器人研发商,industry.AI,phase.A,city.海外
+11,MediaGamma,company/46231167,英国在线用户行为预测服务商,industry.AI,phase.NONE,city.海外
+12,MARKABLE,company/14274399,视觉识别AI技术服务提供商,industry.AI,phase.NONE,city.海外
+13,VergeSense,company/5373580,美国AI室内空间规划设备研发商,industry.AI,phase.SEED,city.海外
+14,SMECorner.com,company/54513893,数字借贷服务提供商,industry.FINANCE,phase.INFORMAL,city.海外
+15,Brodmann17,company/39880074,以色列深度学习视觉技术服务商,industry.AI,phase.A,city.海外
+16,Cortex,company/10759611,美国基于人工智能的内容营销创意素材提供商,industry.MEDIA,phase.NONE,city.海外
+17,Landing.ai,company/60194776,AI技术研发商,industry.AI,phase.NONE,city.海外
+18,remove.bg,company/73364118,美国图片背景修整工具,industry.SOFTWARE,phase.NONE,city.海外
+19,AI Singapore,company/20031780,新加坡人工智能服务提供商,industry.AI,phase.NONE,city.海外
+20,NoPassword,company/93410672,美国身份验证工具制造商,industry.AI,phase.NONE,city.海外
+21,Tap reason,company/56327051,以色列AI用户行为预测系统研发商,industry.AI,phase.NONE,city.海外
+22,niki.ai,company/17346262,印度智能聊天机器人研发商,industry.AI,phase.A,city.海外
+23,Coya,company/99934329,德国保险服务提供商,industry.FINANCE,phase.SEED,city.海外
+24,Chinesee,company/99917417,欧洲商业短视频营销平台,industry.AI,phase.NONE,city.海外
+25,Cardiogram,company/99865873,美国心脏健康监测管理平台,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+26,Shone,company/99830206,自动驾驶系统研发商,industry.AI,phase.INFORMAL,city.海外
+27,Spring Health,company/99790007,美国抑郁症诊疗服务提供商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+28,Translate One2One,company/99685794,实时翻译耳机研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+29,drive.ai,company/99672904,自动驾驶解决方案服务商,industry.AI,phase.B_PLUS,city.海外
+30,DigiConnectt,company/99609533,人工智能销售分析支持解决方案提供商,industry.AI,phase.SEED,city.海外
+31,Emza,company/99591730,机器视觉算法研发商,industry.AI,phase.INFORMAL,city.海外
+32,Heroz,company/99316213,AI算法技术研发商,industry.AI,phase.INFORMAL,city.海外
+33,OpenFinancial,company/99185562,印度会计自动化服务平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+34,North Focals,company/99082044,加拿大智能眼镜研发商,industry.VR_AR,phase.B,city.海外
+35,iUNU,company/99023332,美国计算机视觉技术研发商,industry.AI,phase.ANGEL,city.海外
+36,Tagos,company/98924929,印度人工智能视频交互平台,industry.AI,phase.A,city.海外
+37,Hudl,company/98924187,比赛训练视频分析服务提供商,industry.SPORTS,phase.D,city.海外
+38,NTT DoCoMo,company/98922866,日本移动通信运营服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+39,Echobox,company/98839439,英国智能内容服务公司,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+40,REAL ID,company/82649055,新加坡数字身份认证服务平台,industry.AI,phase.SEED,city.海外
+41,PlusAI,company/8167400,无人驾驶机动车研发商,industry.AI,phase.A_PLUS,city.海外
+42,AnyVision,company/24796872,以色列视觉识别技术研发商,industry.AI,phase.A,city.海外
+43,DFKI,company/77097203,德国人工智能技术研发商,industry.AI,phase.INFORMAL,city.海外
+44,Neurogress,company/34861511,瑞士AI神经网络控制系统研发商,industry.AI,phase.NONE,city.海外
+45,Hover,company/88219058,房屋3D建模应用开发商,industry.AI,phase.C,city.海外
+46,MTailor,company/18787593,美国人工智能男装定制电商平台,industry.E_COMMERCE,phase.A,city.海外
+47,AIDA Technologies,company/34382306,新加坡AI决策分析系统研发商,industry.AI,phase.A,city.海外
+48,Paperspace,company/1905720,美国AI应用开发平台提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+49,富安投,company/97961183,韩国智能投顾服务提供商,industry.FINANCE,phase.NONE,city.海外
+50,Passage AI,company/50031869,美国聊天机器人研发商,industry.AI,phase.A,city.海外
+51,MediaGamma,company/46231167,英国在线用户行为预测服务商,industry.AI,phase.NONE,city.海外
+52,MARKABLE,company/14274399,视觉识别AI技术服务提供商,industry.AI,phase.NONE,city.海外
+53,VergeSense,company/5373580,美国AI室内空间规划设备研发商,industry.AI,phase.SEED,city.海外
+54,SMECorner.com,company/54513893,数字借贷服务提供商,industry.FINANCE,phase.INFORMAL,city.海外
+55,Brodmann17,company/39880074,以色列深度学习视觉技术服务商,industry.AI,phase.A,city.海外
+56,Cortex,company/10759611,美国基于人工智能的内容营销创意素材提供商,industry.MEDIA,phase.NONE,city.海外
+57,Landing.ai,company/60194776,AI技术研发商,industry.AI,phase.NONE,city.海外
+58,remove.bg,company/73364118,美国图片背景修整工具,industry.SOFTWARE,phase.NONE,city.海外
+59,AI Singapore,company/20031780,新加坡人工智能服务提供商,industry.AI,phase.NONE,city.海外
+60,NoPassword,company/93410672,美国身份验证工具制造商,industry.AI,phase.NONE,city.海外
+61,Tap reason,company/56327051,以色列AI用户行为预测系统研发商,industry.AI,phase.NONE,city.海外
+62,niki.ai,company/17346262,印度智能聊天机器人研发商,industry.AI,phase.A,city.海外
+63,Coya,company/99934329,德国保险服务提供商,industry.FINANCE,phase.SEED,city.海外
+64,Chinesee,company/99917417,欧洲商业短视频营销平台,industry.AI,phase.NONE,city.海外
+65,Cardiogram,company/99865873,美国心脏健康监测管理平台,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+66,Shone,company/99830206,自动驾驶系统研发商,industry.AI,phase.INFORMAL,city.海外
+67,Spring Health,company/99790007,美国抑郁症诊疗服务提供商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+68,Translate One2One,company/99685794,实时翻译耳机研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+69,drive.ai,company/99672904,自动驾驶解决方案服务商,industry.AI,phase.B_PLUS,city.海外
+70,DigiConnectt,company/99609533,人工智能销售分析支持解决方案提供商,industry.AI,phase.SEED,city.海外
+71,Emza,company/99591730,机器视觉算法研发商,industry.AI,phase.INFORMAL,city.海外
+72,Heroz,company/99316213,AI算法技术研发商,industry.AI,phase.INFORMAL,city.海外
+73,OpenFinancial,company/99185562,印度会计自动化服务平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+74,North Focals,company/99082044,加拿大智能眼镜研发商,industry.VR_AR,phase.B,city.海外
+75,iUNU,company/99023332,美国计算机视觉技术研发商,industry.AI,phase.ANGEL,city.海外
+76,Tagos,company/98924929,印度人工智能视频交互平台,industry.AI,phase.A,city.海外
+77,Hudl,company/98924187,比赛训练视频分析服务提供商,industry.SPORTS,phase.D,city.海外
+78,NTT DoCoMo,company/98922866,日本移动通信运营服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+79,Echobox,company/98839439,英国智能内容服务公司,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+80,Monet Technologies,company/98684734,自动驾驶服务商,industry.AI,phase.NONE,city.海外
+81,Credit Sesame,company/98568140,教育信贷和个人信用服务提供商,industry.FINANCE,phase.E,city.海外
+82,VisualDx,company/98525014,美国临床辅助诊断平台,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+83,Node,company/98399937,美国信息分析服务平台,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+84,Bons.ai,company/98227763,美国人工智能服务平台,industry.AI,phase.ACQUIRED,city.海外
+85,Lobe,company/98147805,智能深度学习平台,industry.AI,phase.ACQUIRED,city.海外
+86,BenchSci,company/98120444,智能数据搜索平台,industry.AI,phase.A,city.海外
+87,SignalSense,company/98001535,机器学习技术研究及服务商,industry.AI,phase.ACQUIRED,city.海外
+88,Waymo,company/97961641,美国汽车自动驾驶技术研发商,industry.AUTO,phase.NONE,city.海外
+89,Actionable Science,company/97935270,美国人工智能解决方案提供商,industry.AI,phase.SEED,city.海外
+90,Mindstrong Health,company/97863109,美国神经精神病治疗和诊断平台开发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+91,Algolux,company/97772110,加拿大计算机视觉技术研发商,industry.AI,phase.A,city.海外
+92,Hugging Face,company/97690233,聊天机器人开发商,industry.AI,phase.SEED,city.海外
+93,Tron.ai,company/97497002,美国自动驾驶解决方案提供商,industry.AI,phase.ANGEL,city.海外
+94,Workey,company/97476994,智能招聘平台,industry.AI,phase.A,city.海外
+95,Fillr,company/97125159,澳大利亚浏览器自动填写工具,industry.SOFTWARE,phase.A,city.海外
+96,UVeye,company/97101384,以色列汽车智能安全检测技术提供商,industry.AI,phase.SEED,city.海外
+97,Starsky Robotics,company/96977711,美国自动驾驶卡车研发商,industry.AI,phase.A,city.海外
+98,Gyrfalcon Technology,company/96953633,美国AI芯片研发商,industry.AI,phase.A_PLUS,city.海外
+99,TensorFlow,company/96722219,美国开源人工智能学习系统研发商,industry.AI,phase.NONE,city.海外
+100,Prisma,company/96689951,图像处理工具,industry.SOFTWARE,phase.NONE,city.海外
+101,PointGrab,company/96564499,以色列二维手势识别技术研发商,industry.AI,phase.B,city.海外
+102,ISEE,company/96549271,美国自动驾驶技术研发商,industry.AI,phase.ANGEL,city.海外
+103,STRING,company/96469971,生命科学资源数据库,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+104,Capaball,company/96397884,人工智能学习平台,industry.AI,phase.SEED,city.海外
+105,Creative AI,company/96209564,图像识别技术研发商,industry.AI,phase.NONE,city.海外
+106,MindBridge,company/96144284,金融领域人工智能服务商,industry.AI,phase.A,city.海外
+107,Coinscious,company/95863563,加拿大量化数据及AI服务提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+108,Henisaja,company/95717288,德国医疗保健数据服务提供商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+109,Euvision,company/95611378,图像识别研发服务商,industry.AI,phase.ACQUIRED,city.海外
+110,AlphaSense,company/95552015,金融信息智能搜索引擎,industry.FINANCE,phase.INFORMAL,city.海外
+111,VMAXX,company/95426514,人工智能技术研发及服务商,industry.AI,phase.NONE,city.海外
+112,Capture Technologies,company/95227720,美国移动社交应用开发商,industry.SOCIAL_NETWORK,phase.SEED,city.海外
+113,Metamoto,company/95212717,美国自动驾驶模拟系统研发商,industry.AI,phase.NONE,city.海外
+114,Sure app,company/95155066,基于人工智能技术的保险产品服务商,industry.FINANCE,phase.A,city.海外
+115,Premier,company/95141835,美国医疗保健数据服务提供商,industry.MEDICAL_HEALTH,phase.IPO,city.海外
+116,Photomyne,company/95084036,以色列照片扫描应用,industry.SOFTWARE,phase.A,city.海外
+117,Darktrace,company/95033617,英国网络防御服务提供商,industry.SERVICE_INDUSTRIES,phase.E,city.海外
+118,light.ai,company/94544443,AI客服机器人研发商,industry.AI,phase.SEED,city.海外
+119,Hyperfish,company/94365161,美国文件信息管理服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+120,Dimensional Mechanics,company/94326246,美国AI行业应用解决方案提供商,industry.AI,phase.A,city.海外
+121,Lacework,company/94302343,云安全监测平台,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+122,Chatimity,company/94281318,印度聊天机器人研发商,industry.AI,phase.ACQUIRED,city.海外
+123,Human,company/94070537,英国面部特征识别技术研发商,industry.AI,phase.NONE,city.海外
+124,Faraday,company/94009544,人工智能平台服务提供商,industry.AI,phase.INFORMAL,city.海外
+125,Crushh,company/93995629,美国AI情感分析技术研发商,industry.AI,phase.NONE,city.海外
+126,Ambient.ai,company/93977345,美国智能视频分析系统研发商,industry.AI,phase.NONE,city.海外
+127,Wand Labs,company/93837484,自然语义分析技术研发商,industry.AI,phase.ACQUIRED,city.海外
+128,Kasisto,company/93824412,美国个人理财机器人研发商,industry.AI,phase.B,city.海外
+129,Blue Prism,company/93553608,英国机器人流程自动化服务商,industry.AI,phase.NONE,city.海外
+130,Esperanto,company/93240528,7nm人工智能芯片研发商,industry.AI,phase.B,city.海外
+131,Aspectiva,company/93207323,以色列人工智能购物体验分析服务提供商,industry.AI,phase.ACQUIRED,city.海外
+132,Boxx.ai,company/93130766,印度AI数据分析公司,industry.AI,phase.PRE_A,city.海外
+133,NGRAIN,company/93019729,人工智能AR和3D软件研发商,industry.VR_AR,phase.ACQUIRED,city.海外
+134,CrowdFlower,company/92890612,机器学习技术研究及服务提供商,industry.AI,phase.INFORMAL,city.海外
+135,NEX Team,company/92696698,美国篮球训练人工智能解决方案提供商,industry.AI,phase.SEED,city.海外
+136,Neon,company/92672520,巴西数字银行,industry.FINANCE,phase.ANGEL,city.海外
+137,TheAIGames,company/92657013,荷兰人工智能竞赛服务平台,industry.AI,phase.NONE,city.海外
+138,Trax,company/92525432,新加坡图像识别服务提供商,industry.AI,phase.E,city.海外
+139,Catalog Technologies,company/92431664,美国DNA编码数据技术研发商,industry.AI,phase.ANGEL,city.海外
+140,Observe.AI,company/92391115,美国自动化呼叫中心服务提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+141,Agolo,company/91980199,运用AI技术处理信息的服务提供商,industry.AI,phase.SEED,city.海外
+142,Viz,company/91920037,中风智能诊断技术研发商,industry.AI,phase.A,city.海外
+143,Riminder,company/91861753,法国简历智能筛选平台,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+144,Tome Software,company/91771827,美国基于AI减少自行车事故系统研发商,industry.AI,phase.NONE,city.海外
+145,IEE Sensing Germany GmbH,company/91708122,德国自动驾驶软件及算法研发商,industry.AI,phase.ACQUIRED,city.海外
+146,GiveMeSport,company/91616716,英国体育媒体,industry.SPORTS,phase.ACQUIRED,city.海外
+147,Cortana,company/91604422,美国个人语音智能助理服务商,industry.AI,phase.NONE,city.海外
+148,Preteckt,company/91501876,美国车辆预测技术服务商,industry.AI,phase.NONE,city.海外
+149,twoxar,company/91020631,美国人工智能驱动药物研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+150,Previse,company/90960187,英国智能票据即时支付公司,industry.FINANCE,phase.SEED,city.海外
+151,Brighter AI,company/90959702,深度学习技术服务提供商,industry.AI,phase.NONE,city.海外
+152,Hawxeye,company/90944007,美国计算机视觉和面部识别软件服务商,industry.AI,phase.ACQUIRED,city.海外
+153,AI4All,company/90896931,美国AI领域在线学习平台,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+154,Flutura,company/90698448,工业物联网服务商,industry.INTELLIGENT_HARDWARE,phase.B,city.海外
+155,Nucleai,company/90626890,以色列AI医疗服务提供商,industry.AI,phase.SEED,city.海外
+156,Lucidworks,company/90387555,美国智能搜索应用程序提供商,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+157,Wandelbots,company/90305356,德国通用编程语言研发商,industry.SOFTWARE,phase.A,city.海外
+158,Ultromics,company/90110379,AI心脏病诊断服务商,industry.AI,phase.A,city.海外
+159,Zebra Medical Vision,company/89791403,以色列AI医疗影像服务机构,industry.MEDICAL_HEALTH,phase.C,city.海外
+160,Brain Corporation,company/89595475,美国机器人训练平台研发商,industry.ROBOT,phase.C,city.海外
+161,TriNetX,company/89537520,美国临床数据分析服务商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+162,Touchabl,company/89438159,AI图片触摸及识别应用,industry.AI,phase.SEED,city.海外
+163,DropCar,company/89434326,美国自动泊车解决方案提供商,industry.AUTO,phase.NONE,city.海外
+164,Swim.ai,company/89397447,美国边缘计算软件提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+165,Bibox,company/89279590,爱沙尼亚人工智能数字资产交易平台,industry.FINANCE,phase.NONE,city.海外
+166,Meero,company/89267884,法国照片处理技术平台,industry.SOFTWARE,phase.B,city.海外
+167,FacioMetrics,company/89103782,美国AI人脸表情探测系统研发商,industry.AI,phase.ACQUIRED,city.海外
+168,Allscripts,company/88897033,美国医疗软件开发商,industry.MEDICAL_HEALTH,phase.IPO,city.海外
+169,Kadho,company/88656161,美国智能语音识别技术研发商,industry.AI,phase.NONE,city.海外
+170,Mnubo,company/88609797,数据分析解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+171,Niland,company/88580396,法国音乐推荐技术研发商,industry.AI,phase.ACQUIRED,city.海外
+172,IDx,company/88340337,美国智能诊断系统研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+173,Uru,company/88314846,计算机视觉内容广告提供商,industry.AI,phase.ANGEL,city.海外
+174,C Teleport,company/88157860,荷兰海事旅游在线平台,industry.TRAVEL_OUTDOORS,phase.ANGEL,city.海外
+175,Image Sensing Systems,company/88115154,美国智能交通系统服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+176,Geometric,company/87981653,机器学习技术提供商,industry.AI,phase.ACQUIRED,city.海外
+177,Novel Effect,company/87943889,美国有声读物语音识别技术研发商,industry.AI,phase.NONE,city.海外
+178,Graphcore,company/87936558,英国AI芯片生产商,industry.AI,phase.D,city.海外
+179,Hyperdata.IO,company/87777105,人工智能销售科技公司,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+180,Imagr,company/87727441,智能购物车研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+181,Asteroid Data Hunter,company/87601925,小行星数据捕捉桌面软件,industry.AI,phase.NONE,city.海外
+182,Melax Technologies,company/87509808,AI医疗技术研发服务商,industry.AI,phase.NONE,city.海外
+183,NetSpeed Systems,company/87428333,人工智能算法解决方案提供商,industry.AI,phase.ACQUIRED,city.海外
+184,Electric AI,company/87398001,中小型办公室一体化IT支持解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+185,NextWave Robotics,company/87375463,以色列智能机器人研发商,industry.ROBOT,phase.NONE,city.海外
+186,Articoolo Researc,company/87261210,美国AI文章创建解决方案提供商,industry.AI,phase.NONE,city.海外
+187,EKincare,company/87251790,印度个人健康医疗数据聚合服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+188,Vidy,company/86883486,基于区块链和人工智能的视频嵌入层技术提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+189,Babylon Health,company/86729355,英国智能远程会诊服务平台,industry.MEDICAL_HEALTH,phase.B,city.海外
+190,ACORN OakNorth Holdings,company/86507772,英国人工智能金融科技解决方案提供商,industry.AI,phase.C,city.海外
+191,Socialeads,company/86453128,美国智能数据分析服务提供商,industry.AI,phase.SEED,city.海外
+192,Kyruus,company/86395967,美国医疗预约平台,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+193,Ometria,company/86346173,英国个性化人工智能营销平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+194,UgenTec,company/86330957,比利时基于人工智能的分子诊断技术研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+195,Cardilogs,company/86324147,法国心电图分析系统研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+196,Innovusion,company/85959708,激光雷达及传感器融合技术提供商,industry.AI,phase.A,city.海外
+197,LoginChinese,company/85865401,智能语言教育服务商,industry.EDUCATION_TRAINING,phase.PRE_A,city.海外
+198,Veritone,company/85794343,人工智能行业应用软件研发商,industry.AI,phase.IPO,city.海外
+199,Amper Music,company/85676983,人工智能音乐创作平台,industry.MEDIA,phase.SEED,city.海外
+200,Techno Speech,company/85555035,日本计算机多媒体软硬件提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+201,Cortica,company/85514487,以色列计算机视觉技术研发商,industry.AI,phase.NONE,city.海外
+202,Cape Analytics,company/85514087,美国人工智能自动化财产承保平台,industry.AI,phase.B,city.海外
+203,Mintifi,company/85508242,印度线上借贷服务平台,industry.FINANCE,phase.INFORMAL,city.海外
+204,Aviso,company/85388006,人工智能销售预测技术提供商,industry.AI,phase.NONE,city.海外
+205,SpotDraft,company/85284362,印度人工智能法律助手研发商,industry.AI,phase.PRE_A,city.海外
+206,Tetra,company/85272557,美国语音识别系统研发商,industry.AI,phase.SEED,city.海外
+207,Ideanomics,company/85251669,美国数字资产产销服务商,industry.FINANCE,phase.NONE,city.海外
+208,Datorama,company/85049699,以色列云人工智能营销平台,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+209,VoiceTra,company/85013695,日本语音翻译应用程序,industry.SOFTWARE,phase.NONE,city.海外
+210,Quantomic Capital,company/84906445,应用深度学习算法交易的对冲基金,industry.FINANCE,phase.ANGEL,city.海外
+211,Sentiance,company/84843916,比利时情景感知服务提供商,industry.AI,phase.NONE,city.海外
+212,WindyVale,company/84755937,大数据广告技术服务提供商,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+213,Notable Health,company/84616221,语音远程互助医疗信息平台,industry.MEDICAL_HEALTH,phase.A,city.海外
+214,Groq,company/84431341,AI芯片研发商,industry.AI,phase.NONE,city.海外
+215,Trint,company/84413945,人工智能语音转录服务商,industry.AI,phase.A,city.海外
+216,Entelo,company/84409103,基于人工智能技术的招聘资料生成及职位匹配对接平台,industry.SERVICE_INDUSTRIES,phase.C,city.海外
+217,Yobe Inc,company/84352559,通信信号增强处理软件的开发商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+218,H2O.ai,company/84290460,美国开源机器学习服务商,industry.AI,phase.C,city.海外
+219,Riviter,company/84256594,美国视觉搜索引擎技术研发商,industry.AI,phase.NONE,city.海外
+220,CrowdAI,company/84139375,图像识别技术服务商,industry.AI,phase.SEED,city.海外
+221,Stratagem,company/83903627,基于人工智能技术的体育数据分析服务商,industry.SPORTS,phase.NONE,city.海外
+222,Scyfer,company/83808153,荷兰机器学习技术公司,industry.AI,phase.ACQUIRED,city.海外
+223,Apex.ai,company/83499954,美国自动驾驶操作系统研发商,industry.AI,phase.A,city.海外
+224,PerimeterX,company/83464860,美国网络威胁防护技术提供商,industry.SERVICE_INDUSTRIES,phase.C,city.海外
+225,Skymind,company/83404736,深度学习库及技术服务提供商,industry.AI,phase.INFORMAL,city.海外
+226,Silk Labs,company/83396022,美国人工智能技术研发商,industry.AI,phase.ACQUIRED,city.海外
+227,Orbita,company/83250318,美国智能语音医疗服务提供商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+228,AdLaunch,company/83201255,芬兰人工智能视频编辑器研发商,industry.AI,phase.NONE,city.海外
+229,Zoox,company/82864515,无人驾驶汽车研发制造商,industry.AUTO,phase.B,city.海外
+230,StockNote,company/82860921,印度移动证券交易平台,industry.FINANCE,phase.B,city.海外
+231,Decentralized Machine Learning,company/82823178,分布式机器学习协议,industry.FINANCE,phase.NONE,city.海外
+232,Bloomsbury AI,company/82482900,自然语言处理技术服务提供商,industry.AI,phase.ACQUIRED,city.海外
+233,CommonSense Robotics,company/82293228,以色列电商按需物流解决方案提供商,industry.LOGISTICS,phase.A,city.海外
+234,Cerebri AI,company/82287075,智能用户分析平台,industry.AI,phase.A,city.海外
+235,Mad Street Den,company/82248103,AI服装搭配服务平台,industry.AI,phase.B,city.海外
+236,Valohai,company/82229071,芬兰机器学习解决方案提供商,industry.AI,phase.SEED,city.海外
+237,TetraVue,company/82118237,美国汽车雷达及汽车深度摄像头研发商,industry.AUTO,phase.A_PLUS,city.海外
+238,Spektral,company/82028112,丹麦计算机视觉技术研发商,industry.AI,phase.A,city.海外
+239,Embodied,company/81916141,美国智能伴侣机器人研发商,industry.ROBOT,phase.A,city.海外
+240,DynamicAction,company/81837899,基于人工智能的零售商营销分析解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+241,Clearpath Robotics,company/81752055,加拿大智能机器人研发商,industry.ROBOT,phase.B,city.海外
+242,Attic Labs,company/81621695,去中心化数据库服务商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+243,Biofire Technologies,company/81495051,美国智能手枪研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+244,Diameter Health,company/81253710,美国临床数据集成公司,industry.MEDICAL_HEALTH,phase.PRE_A,city.海外
+245,OTTO Motors,company/81101645,加拿大室内自动驾驶车辆研发商,industry.AUTO,phase.NONE,city.海外
+246,Prognos,company/81017886,美国医疗数据跟踪和预测疾病服务平台,industry.MEDICAL_HEALTH,phase.C,city.海外
+247,Zentron Labs,company/81001382,印度机器视觉解决方案提供商,industry.AI,phase.ANGEL,city.海外
+248,Magic Pony Technology,company/80972047,使用神经网络和机器学习技术为图片提供可扩展数据的公司,industry.AI,phase.ACQUIRED,city.海外
+249,TalkIQ,company/80950355,美国AI语音识别引擎研发商,industry.AI,phase.ACQUIRED,city.海外
+250,Aurora,company/80784547,自动驾驶技术研发商,industry.AUTO,phase.INFORMAL,city.海外
+251,Orthotaxy,company/80699754,法国AI外科手术软件研发商,industry.AI,phase.ACQUIRED,city.海外
+252,Empirical,company/80507117,美国基于人工智能的数据分析服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+253,Roboteam,company/80372799,智能机器人研发商,industry.ROBOT,phase.B,city.海外
+254,Computes,company/80346325,分布式计算平台,industry.AI,phase.ACQUIRED,city.海外
+255,Pearl,company/80203281,美国无线后视摄像头研发商,industry.INTELLIGENT_HARDWARE,phase.A,city.海外
+256,AutoWealth,company/80120369,新加坡数字投资顾问平台,industry.FINANCE,phase.INFORMAL,city.海外
+257,Kudan,company/79998044,英国SLAM技术开发商,industry.VR_AR,phase.ANGEL,city.海外
+258,Top Data Science,company/79949730,医疗领域人工智能软件研发商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+259,Pienso,company/79844280,机器学习技术服务提供商,industry.AI,phase.SEED,city.海外
+260,Embark,company/79702916,美国卡车自动驾驶技术研发商,industry.AI,phase.B,city.海外
+261,Esper,company/79564600,美国智能助手研发商,industry.AI,phase.SEED,city.海外
+262,Lighthouse,company/79541523,AI视频监控系统生产商,industry.AI,phase.A,city.海外
+263,Gamalon,company/79338368,美国机器学习技术服务商,industry.AI,phase.A,city.海外
+264,Libratus,company/79136076,AI德州扑克机器人研发商,industry.AI,phase.NONE,city.海外
+265,BookYourStudy,company/79042625,全球英语课程预定平台,industry.EDUCATION_TRAINING,phase.A,city.海外
+266,OKRA,company/78984806,人工智能数据服务提供商,industry.AI,phase.A,city.海外
+267,Preferred Networks,company/78890292,日本深度学习公司,industry.AI,phase.NONE,city.海外
+268,Robby Technologies,company/78816976,智能快递机器人研发商,industry.ROBOT,phase.ANGEL,city.海外
+269,Observant AI,company/78791332,美国用户反应分析服务提供商,industry.AI,phase.NONE,city.海外
+270,Callsign,company/78790212,英国身份认证服务提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+271,Remix,company/78513825,美国城市交通大数据分析平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+272,Textio,company/78463556,人工智能文书检验平台,industry.AI,phase.B,city.海外
+273,Oxbotica,company/78253550,自动驾驶软件及整车产品研发商,industry.AI,phase.UNKNOWN,city.海外
+274,iobeam,company/78234508,美国物联网数据平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+275,Soapbox Labs,company/78023608,爱尔兰语音识别技术研发商,industry.AI,phase.ANGEL,city.海外
+276,CrowdRiff,company/78019829,加拿大AI旅游视觉内容管理和营销平台,industry.AI,phase.A,city.海外
+277,AutoGrid,company/77954651,美国AI能源解决方案提供商,industry.AI,phase.D,city.海外
+278,ContextVision,company/77942594,瑞典AI医疗图像分析技术研发商,industry.AI,phase.NONE,city.海外
+279,Weka.IO,company/77925232,美国AI文件分析系统开发商,industry.AI,phase.D,city.海外
+280,Immersive Wisdom,company/77827395,美国VR/AR软件开发商,industry.VR_AR,phase.INFORMAL,city.海外
+281,Whyd,company/77807106,集成语音识别技术的音响研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+282,Travelaer,company/77720718,在旅行中提供航空数字体验的服务商,industry.AI,phase.A,city.海外
+283,Vicarious,company/77696593,机器学习技术研发商,industry.AI,phase.C,city.海外
+284,Welltok,company/77674964,美国个人健康管理平台,industry.MEDICAL_HEALTH,phase.E,city.海外
+285,AnyMind Group,company/77511179,新加坡广告解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B_PLUS,city.海外
+286,DataRobot,company/77452273,基于深度学习技术提供建模服务的平台,industry.AI,phase.C,city.海外
+287,Pebbles Interfaces,company/77411760,以色列手势识别技术服务商,industry.AI,phase.ACQUIRED,city.海外
+288,VeriME,company/77229516,分散运行的服务性验证生态系统,industry.FINANCE,phase.NONE,city.海外
+289,Cherry Labs,company/77124365,美国AI家庭安全系统研发商,industry.AI,phase.A,city.海外
+290,Raven Telemetry,company/77037660,人工智能技术研发服务商,industry.AI,phase.INFORMAL,city.海外
+291,Featurespace,company/77000637,英国AI反欺诈服务商,industry.FINANCE,phase.C,city.海外
+292,CareSkore,company/76981075,美国健康趋势预测平台,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+293,Cyclica,company/76908053,加拿大AI辅助药物研发服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+294,Ride OS,company/76885070,自动驾驶地图服务提供商,industry.AI,phase.B,city.海外
+295,Fayteq,company/76856032,德国计算机视觉技术提供商,industry.AI,phase.ACQUIRED,city.海外
+296,Cleo,company/76820546,英国财务管理型聊天机器人研发商,industry.AI,phase.A,city.海外
+297,Evature,company/76744927,以色列自然语言和聊天机器人技术提供商,industry.AI,phase.ACQUIRED,city.海外
+298,HalioDx,company/76698604,法国肿瘤免疫诊断产品研发商,industry.MEDICAL_HEALTH,phase.B,city.海外
+299,MATCH 吃货,company/76657552,通过大数据计算、人工智能为用户提供美食介绍的人工智能美食助手,industry.CONSUMER_LIFESTYLE,phase.NONE,city.海外
+300,YayPay,company/76601411,企业应收账款解决方案提供商,industry.FINANCE,phase.A,city.海外
+301,Planck Re,company/75903643,AI技术保险承保服务解决方案提供商,industry.AI,phase.A,city.海外
+302,Kodiak Robotics,company/75851378,美国长途货运自动驾驶技术提供商,industry.AI,phase.A,city.海外
+303,LeapMind,company/75785037,日本AI芯片研发商,industry.AI,phase.A,city.海外
+304,GlobalData,company/75775239,智能数据分析服务提供商,industry.AI,phase.NONE,city.海外
+305,Shazam,company/75735879,音乐识别应用,industry.SOFTWARE,phase.ACQUIRED,city.海外
+306,Objectiv,company/75695688,荷兰人工智能与数据挖掘技术公司,industry.AI,phase.SEED,city.海外
+307,UiPath,company/75605506,美国AI机器处理自动化技术研发商,industry.AI,phase.D,city.海外
+308,Montessorium,company/75574429,启蒙教育服务平台,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+309,Seven Stars Cloud Group,company/75464807,美国数字资产服务提供商,industry.FINANCE,phase.NONE,city.海外
+310,Cloudsight,company/75410974,美国计算机视觉API提供商,industry.AI,phase.NONE,city.海外
+311,Lightelligence,company/75389680,美国AI光学芯片研发商,industry.AI,phase.SEED,city.海外
+312,Flipside Crypto,company/75320407,美国人工智能算法开发服务提供商,industry.AI,phase.INFORMAL,city.海外
+313,Lyrebird,company/75162361,语音合成技术提供商,industry.AI,phase.NONE,city.海外
+314,Clustrix,company/75071523,美国分布式数据库服务商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+315,cNeuron,company/75061613,深度学习处理器提供商,industry.AI,phase.NONE,city.海外
+316,Viv,company/74881679,自然语言处理技术研发商,industry.AI,phase.ACQUIRED,city.海外
+317,Kyndi,company/74818011,美国人工智能解决方案提供商,industry.AI,phase.B,city.海外
+318,Albert Technologies,company/74761960,智能营销平台,industry.AI,phase.IPO,city.海外
+319,i.am+,company/74623323,客户服务聊天机器人研发商,industry.AI,phase.B,city.海外
+320,WriteLab,company/74574635,在线写作智能辅导平台,industry.AI,phase.ACQUIRED,city.海外
+321,Olive,company/74457359,美国AI医疗技术服务提供商,industry.MEDICAL_HEALTH,phase.D,city.海外
+322,Precise Biometrics,company/74293611,瑞典指纹识别技术服务商,industry.AI,phase.NONE,city.海外
+323,Euklid,company/74203468,人工智能金融投资服务公司,industry.FINANCE,phase.ANGEL,city.海外
+324,Zeusshield,company/74174631,区块链AI保险解决方案提供商,industry.FINANCE,phase.NONE,city.海外
+325,SYSTRAN,company/74116812,AI翻译技术研发商,industry.AI,phase.NONE,city.海外
+326,MoEngage,company/73995299,印度智能营销云服务提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+327,Liv.ai,company/73887386,印度智能语音识别应用研发商,industry.AI,phase.NONE,city.海外
+328,DITTO.com,company/73867893,美国3D面部模型技术提供商,industry.AI,phase.INFORMAL,city.海外
+329,Unbabel,company/73801847,人工智能翻译平台,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+330,VEONEER,company/73785637,瑞典自动驾驶解决方案提供商,industry.AI,phase.NONE,city.海外
+331,Integrate.ai,company/73712605,加拿大人工智能软件开发商,industry.AI,phase.NONE,city.海外
+332,Viome,company/73652279,AI医疗诊断服务商,industry.AI,phase.B,city.海外
+333,LIUEX,company/73605157,数字货币交易平台,industry.FINANCE,phase.NONE,city.海外
+334,Luminar,company/73524816,汽车激光雷达研发商,industry.AUTO,phase.INFORMAL,city.海外
+335,ManyChat,company/73391465,美国AI营销机器人,industry.AI,phase.A,city.海外
+336,Skelter Labs,company/73314695,韩国机器学习技术研发商,industry.AI,phase.INFORMAL,city.海外
+337,Moneytree,company/73235679,日本资产管理应用和云账户解决方案提供商,industry.FINANCE,phase.B,city.海外
+338,Wanda,company/73157358,美国智能诊断产品研发商,industry.MEDICAL_HEALTH,phase.ACQUIRED,city.海外
+339,AEye,company/72903400,美国自动驾驶机器视觉技术研发商,industry.AI,phase.B,city.海外
+340,Mendel.ai,company/72710426,美国辅助医疗AI系统研发商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+341,Skin Motion,company/72694567,美国AI纹身技术研发商,industry.AI,phase.NONE,city.海外
+342,Altera,company/72598769,虚拟语音助手研发商,industry.AI,phase.ACQUIRED,city.海外
+343,Nanorep,company/72547435,美国聊天机器人研发商,industry.AI,phase.ACQUIRED,city.海外
+344,X.ai,company/72454451,美国虚拟助手技术研发商,industry.AI,phase.C,city.海外
+345,Ghost Locomotion,company/72408459,美国自动驾驶服务提供商,industry.AUTO,phase.A,city.海外
+346,Celect,company/72158735,AI预测购买模式和商店顾客行为系统提供商,industry.SERVICE_INDUSTRIES,phase.C,city.海外
+347,AiCure,company/71909018,美国患者用药管理平台,industry.MEDICAL_HEALTH,phase.A,city.海外
+348,Habana,company/71856004,以色列AI芯片研发商,industry.AI,phase.B,city.海外
+349,Buoy Health,company/71780896,美国AI医疗诊断服务提供商,industry.AI,phase.A,city.海外
+350,Halli Labs,company/71614372,印度深度学习和机器学习系统研发商,industry.AI,phase.ACQUIRED,city.海外
+351,Int.Ai,company/71600353,印度人工智能解决方案提供商,industry.AI,phase.ACQUIRED,city.海外
+352,BinaryVR,company/71475209,美国VR面部识别技术开发商,industry.VR_AR,phase.A,city.海外
+353,Farmstead,company/71440157,AI农产品销售系统提供商,industry.AI,phase.A,city.海外
+354,Stickeroid,company/71259572,塞浦路斯智能贴图生成平台,industry.AI,phase.NONE,city.海外
+355,Chattermill,company/70829572,深度学习技术研发商,industry.AI,phase.SEED,city.海外
+356,BrainHi,company/70662740,波多黎各AI医疗系统研发商,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+357,NextGenVest,company/70636512,美国教育资金规划平台,industry.FINANCE,phase.ACQUIRED,city.海外
+358,AFanta,company/70413961,美国AI视频创作分享平台,industry.AI,phase.SEED,city.海外
+359,Contextor SAS,company/70374076,法国机器人员工自动化服务商,industry.AI,phase.ACQUIRED,city.海外
+360,Spoke,company/70236685,信息自动应答服务提供商,industry.AI,phase.B,city.海外
+361,Rasa,company/70232160,德国机器学习技术研发商,industry.AI,phase.SEED,city.海外
+362,YellowHead,company/69829789,服务于移动应用和游戏开发商的数字营销服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+363,IBM Watson,company/69655500,美国AI医疗服务提供商,industry.AI,phase.NONE,city.海外
+364,Synaptics,company/69638537,人机界面交互技术方案提供商,industry.AI,phase.NONE,city.海外
+365,Voiceitt,company/69616920,语音识别设备研发商,industry.AI,phase.SEED,city.海外
+366,Inovalon,company/69548563,美国医疗数据分析服务提供商,industry.MEDICAL_HEALTH,phase.IPO,city.海外
+367,Movidius,company/69547819,人工智能与计算机视觉技术研发商,industry.AI,phase.ACQUIRED,city.海外
+368,Tyto Care,company/69375353,以色列智能诊断设备研发商,industry.MEDICAL_HEALTH,phase.C,city.海外
+369,CoderBunnyz,company/69335323,美国少儿编程AI游戏研发商,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+370,Mosaic,company/69271342,美国人工智能聊天机器人研发商,industry.AI,phase.INFORMAL,city.海外
+371,Donde,company/68996352,以色列电商图像识别技术提供商,industry.AI,phase.ANGEL,city.海外
+372,i3systems,company/68928732,印度人工智能医疗保险服务商,industry.FINANCE,phase.SEED,city.海外
+373,Dynamic Yield,company/68819987,美国个性化营销服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+374,Predible Health,company/68767473,印度癌症诊断服务提供商,industry.MEDICAL_HEALTH,phase.PRE_A,city.海外
+375,Gigster,company/68679763,美国按需软件开发服务平台提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+376,Misapplied Sciences,company/68624598,并行显示技术应用场景提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+377,Factmata,company/68622696,自动化内容评分及验证服务商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+378,Mondly,company/68592708,罗马尼亚在线语言学习平台,industry.AI,phase.NONE,city.海外
+379,Alces Technology,company/68474146,3D图像感知技术研发商,industry.AI,phase.ANGEL,city.海外
+380,Soundhound,company/68443350,美国音乐识别应用开发商,industry.AI,phase.INFORMAL,city.海外
+381,Deep Vision,company/68369158,计算机视觉解决方案提供商,industry.AI,phase.SEED,city.海外
+382,Legit,company/68368059,知识产权服务软件研发商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+383,XOXCO,company/68115742,聊天机器人研发商,industry.AI,phase.ACQUIRED,city.海外
+384,Growlabs,company/68091209,通过机器智能来为海外销售提供支持的服务商,industry.AI,phase.SEED,city.海外
+385,Sensum,company/68044056,英国情绪识别技术研发商,industry.AI,phase.NONE,city.海外
+386,Lampix,company/67992689,智能台灯研发商,industry.INTELLIGENT_HARDWARE,phase.ANGEL,city.海外
+387,Hade Platform,company/67724377,美国金融科技服务商,industry.FINANCE,phase.NONE,city.海外
+388,Medopad,company/67586761,英国人工智能医疗技术研发商,industry.AI,phase.A,city.海外
+389,Hailo Technologies,company/67565076,深度学习芯片研发商,industry.AI,phase.A,city.海外
+390,Snips,company/67528214,语音助手平台,industry.AI,phase.A,city.海外
+391,Pindrop,company/67396713,反欺诈及身份验证解决方案提供商,industry.SERVICE_INDUSTRIES,phase.D,city.海外
+392,Perfect Price,company/67380988,美国基于AI的预测分析公司,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+393,Test,company/67282541,美国智能应用测试系统研发商,industry.AI,phase.A,city.海外
+394,XpertSea Solutions,company/67254696,加拿大水产养殖行业信息化服务提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+395,ZenScreen,company/67145771,美国App使用管控软件研发商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+396,Crossing Minds,company/67017561,个性化内容推送服务提供商,industry.AI,phase.SEED,city.海外
+397,Avaamo,company/66966559,企业对话机器人服务平台,industry.AI,phase.A,city.海外
+398,Aptiv,company/66920142,美国自动驾驶技术研发商,industry.AUTO,phase.IPO,city.海外
+399,Verloop,company/66902391,印度SaaS服务商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+400,Hiretual,company/66869493,人工智能招聘服务平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+401,Sentinel Protocol,company/66675274,智能加密货币安全系统研发商,industry.AI,phase.A,city.海外
+402,B12,company/66559311,基于人工智能技术的建站平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+403,MeetFrank,company/66427963,AI招聘平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+404,Buffalo Automation,company/66273685,美国无人驾驶船舶技术研发商,industry.AI,phase.SEED,city.海外
+405,MoneyBrain,company/66204130,韩国聊天机器人研发商,industry.AI,phase.NONE,city.海外
+406,CrowdAnalytix,company/66137496,美国人工智能服务提供商,industry.AI,phase.INFORMAL,city.海外
+407,Bonsai,company/65998182,一站式AI构建平台,industry.SERVICE_INDUSTRIES,phase.A_PLUS,city.海外
+408,Bidalgo,company/65979640,智能决策服务提供商,industry.AI,phase.NONE,city.海外
+409,Bdeo,company/65886068,西班牙AI保险智能理赔服务商,industry.FINANCE,phase.A,city.海外
+410,People.ai,company/65882277,美国AI销售流程自动化服务平台,industry.AI,phase.B,city.海外
+411,Theta Lake,company/65643321,美国AI视频通信服务平台,industry.AI,phase.NONE,city.海外
+412,SmartAssit,company/65537588,美国智能客服研发商,industry.AI,phase.A,city.海外
+413,Blue River,company/65350393,美国农业自动化技术及产品研发商,industry.AI,phase.ACQUIRED,city.海外
+414,Operator,company/65238039,美国对话购物电商平台,industry.E_COMMERCE,phase.B,city.海外
+415,Orion Labs,company/65221080,语音机器人研发商,industry.AI,phase.B,city.海外
+416,Hellopearl,company/64993569,美国智能牙科医疗服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+417,Keito,company/64741615,印度AI虚拟助理服务提供商,industry.AI,phase.SEED,city.海外
+418,华钛科技,company/64714282,新加坡智能信贷评估服务提供商,industry.FINANCE,phase.NONE,city.海外
+419,KinTrans,company/64506798,美国手语翻译系统研发商,industry.AI,phase.NONE,city.海外
+420,Lapetus Solutions,company/64471124,美国AI寿命预测系统提供商,industry.AI,phase.NONE,city.海外
+421,Taro,company/64407810,美国AI相机稳定器研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+422,Lunwave,company/64270757,美国自动驾驶汽车研发商,industry.AUTO,phase.SEED,city.海外
+423,KnuEdge,company/64178198,神经网络芯片研发商,industry.AI,phase.C,city.海外
+424,Element Data,company/64168542,智能决策系统研发商,industry.AI,phase.A,city.海外
+425,PyTorch,company/64041580,美国深度学习框架研发商,industry.AI,phase.NONE,city.海外
+426,Lucidinside,company/63882541,美国AI摄像头系统解决方案提供商,industry.AI,phase.NONE,city.海外
+427,Deep Sentinel,company/63878626,美国AI安防系统研发商,industry.AI,phase.A,city.海外
+428,c2sec,company/63836641,网络安全服务提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+429,Beyond Verbal,company/63822300,以色列情绪分析技术研发商,industry.AI,phase.A,city.海外
+430,Medsphere Systems,company/63714594,医疗保健开源软件提供商,industry.MEDICAL_HEALTH,phase.D,city.海外
+431,ZYTO,company/63538637,生物通信扫描技术研发商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+432,[24]7,company/63315222,聊天机器人开发商,industry.AI,phase.A,city.海外
+433,Embodied Intelligence,company/63220862,机器学习算法研究服务商,industry.AI,phase.SEED,city.海外
+434,IntSite,company/63217748,机器视觉系统研发商,industry.AI,phase.SEED,city.海外
+435,Gong.io,company/63178331,语音大数据分析服务提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+436,Knowmail,company/63160135,邮件过载问题解决方案提供商,industry.AI,phase.A,city.海外
+437,CareNexis,company/62958884,美国AI护理解决方案提供商,industry.AI,phase.SEED,city.海外
+438,FiveAI,company/62872308,无人驾驶软件制造商,industry.AUTO,phase.A,city.海外
+439,Ripcord,company/62753983,数字化办公服务机器人的研发商,industry.ROBOT,phase.B_PLUS,city.海外
+440,Samsara,company/62745306,美国车队管理传感器研发商,industry.INTELLIGENT_HARDWARE,phase.E,city.海外
+441,Soul Machines,company/62475693,神经智能系统开发商,industry.AI,phase.A,city.海外
+442,SparkCognition,company/62467948,认知安全分析公司,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+443,Remark Holdings,company/62435545,美国数字媒体服务提供商,industry.MEDIA,phase.IPO,city.海外
+444,TalkBank,company/62292884,数字银行客服机器人研发商,industry.AI,phase.SEED,city.海外
+445,Doc.ai,company/62209108,美国医疗领域自然语言处理技术研发商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+446,Mihup,company/62183044,印度个人手机助手研发商,industry.AI,phase.INFORMAL,city.海外
+447,Project PAI,company/62129160,人工智能形象设计服务平台,industry.AI,phase.ANGEL,city.海外
+448,Highspot,company/62098830,人工智能销售工具开发公司,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+449,MagicWeaver,company/62014028,美国AI人体数据采集服务商,industry.AI,phase.NONE,city.海外
+450,Upstream Security,company/61945452,自动驾驶技术研发商,industry.AI,phase.A,city.海外
+451,牛津大学动物学系研究小组,company/61883483,声音识别技术研发商,industry.AI,phase.NONE,city.海外
+452,BLU Products,company/61863482,美国平价智能手机研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+453,NetraDyne,company/61846845,汽车摄像头研发商,industry.AI,phase.B,city.海外
+454,Machinify,company/61787242,美国人工智能分析公司,industry.AI,phase.A,city.海外
+455,Clew Medical,company/61670958,医院重症监护病房收集系统服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+456,ALEKS,company/61662566,美国AI教育评估学习平台,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+457,Turi,company/61551871,美国机器学习技术提供商,industry.AI,phase.ACQUIRED,city.海外
+458,Genee,company/60637457,美国AI行程安排服务平台,industry.AI,phase.ACQUIRED,city.海外
+459,DheeYantra,company/60575809,聊天机器人研发商,industry.AI,phase.SEED,city.海外
+460,M1 Finance,company/60480154,美国智能投顾平台,industry.FINANCE,phase.ANGEL,city.海外
+461,Fetcher,company/60407975,美国AI招聘解决方案提供商,industry.AI,phase.ANGEL,city.海外
+462,ParallelDots,company/60403854,印度深度学习技术及产品服务商,industry.AI,phase.ANGEL,city.海外
+463,ADAM,company/60403837,以色列驾驶注意力管理平台,industry.AI,phase.NONE,city.海外
+464,Catalia Health,company/60359702,美国健康管理机器人研发商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+465,Wysdom,company/60353029,加拿大智能客服平台,industry.AI,phase.A,city.海外
+466,Inuitive,company/60276812,以色列3D计算机视觉和图像处理供应商,industry.AI,phase.NONE,city.海外
+467,Narrativ,company/60173049,美国内容营销平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+468,Kairos,company/60143014,脸部识别技术提供商,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+469,Skydisc,company/60080972,日本数据管理科技公司,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+470,Worxogo Solution,company/60069068,人工智能助理产品研发商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+471,Truven,company/59694513,美国医疗保健数据与分析服务提供商,industry.MEDICAL_HEALTH,phase.ACQUIRED,city.海外
+472,DoNotPay,company/59669494,法律服务机器人,industry.AI,phase.NONE,city.海外
+473,Ascent Robotics,company/59524097,自主控制机器人系统研发商,industry.AI,phase.A,city.海外
+474,Saykara,company/59387489,美国人工智能医疗辅助平台,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+475,TranscribeMe,company/59285241,语音识别服务提供商,industry.AI,phase.NONE,city.海外
+476,Agentology,company/59082455,美国AI房产经纪人服务平台,industry.AI,phase.A,city.海外
+477,Argo AI,company/59008777,无人驾驶车辆虚拟驾驶系统开发商,industry.AUTO,phase.ACQUIRED,city.海外
+478,Figure Eight,company/58903514,美国人工智能数据标注服务提供商,industry.AI,phase.ACQUIRED,city.海外
+479,Jibo,company/58884352,美国智能社交机器人研发商,industry.ROBOT,phase.A,city.海外
+480,Nuance Communications,company/58793208,美国语音识别软件提供商,industry.AI,phase.NONE,city.海外
+481,Wahed,company/58785946,穆斯林人投资服务提供平台,industry.FINANCE,phase.ANGEL,city.海外
+482,Quantela,company/58463598,美国智慧城市服务商,industry.AI,phase.A,city.海外
+483,Exscientia,company/58393121,英国药物研发AI技术服务提供商,industry.MEDICAL_HEALTH,phase.B,city.海外
+484,MedyMatch,company/58325990,AI医疗影像产品研发商,industry.AI,phase.NONE,city.海外
+485,DeepMotion,company/58303778,美国AI动画制作商,industry.AI,phase.NONE,city.海外
+486,Arterys,company/58265887,美国AI医疗影像系统研发商,industry.MEDICAL_HEALTH,phase.B_PLUS,city.海外
+487,BrainChip,company/58176390,美国AI安防系统研发商,industry.AI,phase.IPO,city.海外
+488,Audio Analytic,company/57983983,英国声纹识别技术供应商,industry.AI,phase.A,city.海外
+489,Brightlamp,company/57950644,脑震荡检测APP开发商,industry.AI,phase.NONE,city.海外
+490,Vertex.AI,company/57729111,美国深度学习服务提供商,industry.AI,phase.ACQUIRED,city.海外
+491,instana,company/57728752,APM服务商,industry.SERVICE_INDUSTRIES,phase.C,city.海外
+492,Babel Health,company/57704205,美国健康数据管理商,industry.MEDICAL_HEALTH,phase.A,city.海外
+493,Made by AI,company/57690876,美国AI作曲服务平台,industry.AI,phase.NONE,city.海外
+494,Kata.ai,company/57403686,印尼AI虚拟个人助理服务提供商,industry.AI,phase.A,city.海外
+495,Amazon Alexa,company/57395973,美国人机语音交互系统提供商,industry.AI,phase.NONE,city.海外
+496,DeepMind,company/57201335,人工智能领域的深度学习算法公司,industry.AI,phase.ACQUIRED,city.海外
+497,PathAI,company/57156717,美国智能诊断服务提供商,industry.MEDICAL_HEALTH,phase.B,city.海外
+498,SeeTree,company/56966310,以色列农林技术服务提供商,industry.FARMING,phase.NONE,city.海外
+499,Kalderos,company/56869888,美国医疗保健系统服务商,industry.MEDICAL_HEALTH,phase.A,city.海外
+500,Augmedix,company/56750794,美国智能辅助诊断系统研发商,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+501,sense.ly,company/56684736,人工智能医疗服务平台,industry.MEDICAL_HEALTH,phase.B,city.海外
+502,BitUP,company/56632444,智能数字财富管理平台,industry.AI,phase.ANGEL,city.海外
+503,Tripl,company/56330434,旅行地点人工智能推荐平台,industry.AI,phase.ACQUIRED,city.海外
+504,Einride,company/56103772,无人驾驶电力货车研发商,industry.AI,phase.NONE,city.海外
+505,ROSS Intelligence,company/56003471,AI法务服务提供商,industry.AI,phase.A,city.海外
+506,Flatiron Health,company/55890964,肿瘤大数据分析平台,industry.MEDICAL_HEALTH,phase.ACQUIRED,city.海外
+507,Mode.ai,company/55651805,美国基于人工智能的服饰挑选推荐平台,industry.E_COMMERCE,phase.NONE,city.海外
+508,Excel Medical,company/55630401,美国医疗器械集成和患者监护解决方案提供商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+509,Pluto AI,company/55559007,美国AI水处理厂状况分析平台,industry.AI,phase.SEED,city.海外
+510,vBrand,company/55546433,体育营销效果评估服务提供商,industry.SPORTS,phase.ACQUIRED,city.海外
+511,Tigereum,company/55380498,英国加密货币交易服务提供商,industry.FINANCE,phase.NONE,city.海外
+512,Softbankrobotics,company/55349193,日本情感机器人研发商,industry.ROBOT,phase.INFORMAL,city.海外
+513,数字币交易所,company/55170179,新加坡数字资产智能投顾交易平台,industry.FINANCE,phase.ANGEL,city.海外
+514,Tamr,company/54948123,美国基于人工智能的数据分析服务商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+515,Ushur,company/54918264,美国SaaS互动平台服务商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+516,Afiniti,company/54870149,美国人工智能软件开发商,industry.AI,phase.D,city.海外
+517,XAIN Group,company/54725099,德国区块链和AI服务提供商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+518,Claned,company/54430492,AI个性化学习平台,industry.EDUCATION_TRAINING,phase.UNKNOWN,city.海外
+519,Intuition Robotics,company/54428703,老年伴侣机器人研发商,industry.ROBOT,phase.A_PLUS,city.海外
+520,PAI Health,company/54219354,加拿大健康数据记录平台,industry.MEDICAL_HEALTH,phase.C,city.海外
+521,Beyond Limits,company/54140110,人工智能和认知计算技术研发商,industry.AI,phase.B,city.海外
+522,Boltt Sports Technologies,company/53928997,运动可穿戴设备制造商,industry.SPORTS,phase.ANGEL,city.海外
+523,Frontdesk AI,company/53824003,智能自动化客户服务软件提供商,industry.AI,phase.ANGEL,city.海外
+524,Journal,company/53804947,美国集成式网络搜索平台,industry.AI,phase.SEED,city.海外
+525,Verbit.ai,company/53745495,AI智能音视频转录服务平台,industry.AI,phase.ANGEL,city.海外
+526,CORA,company/53733331,飞行出租车制造商,industry.AUTO,phase.NONE,city.海外
+527,StatusToday,company/53590486,AI智能决策服务商,industry.AI,phase.SEED,city.海外
+528,Baraja,company/53564246,澳大利亚自动驾驶激光雷达公司,industry.AI,phase.A,city.海外
+529,AMP Robotics,company/53453805,垃圾分类机器人研发商,industry.ROBOT,phase.ANGEL,city.海外
+530,ClearGraph,company/53411167,美国语义搜索解决方案提供商,industry.AI,phase.ACQUIRED,city.海外
+531,Epistema,company/52726366,协作式知识分析服务提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+532,Pronto.AI,company/52721918,自动驾驶卡车公司,industry.AI,phase.NONE,city.海外
+533,Uniphore,company/52576514,印度智能化客服服务平台提供商,industry.AI,phase.C,city.海外
+534,Entrupy,company/52552266,AI图像识别奢侈品真伪服务商,industry.AI,phase.A,city.海外
+535,Lola,company/52533973,美国模拟养狗体验聊天机器人研发商,industry.AI,phase.B,city.海外
+536,POLY AI,company/52490155,人工智能技术解决方案提供商,industry.FINANCE,phase.NONE,city.海外
+537,Mammoth Biosciences,company/52400181,美国智能诊断服务平台,industry.MEDICAL_HEALTH,phase.A,city.海外
+538,SkyRyse,company/52399536,美国飞行员辅助系统研发商,industry.AUTO,phase.A,city.海外
+539,Bright.md,company/52324830,美国远程护理服务医疗公司,industry.MEDICAL_HEALTH,phase.B,city.海外
+540,Eventbase,company/52195876,加拿大AI事件管理平台,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+541,Magnetis,company/52154447,巴西智能投顾服务提供商,industry.FINANCE,phase.A,city.海外
+542,Twiggle,company/51970818,以色列电子商务搜索引擎,industry.AI,phase.B,city.海外
+543,Entropik Technology,company/51854030,印度情感识别技术研发商,industry.AI,phase.PRE_A,city.海外
+544,BenevolentAI,company/51834112,英国人工智能新药研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+545,ThinCI,company/51830768,美国深度学习及视觉处理技术开发商,industry.AI,phase.A,city.海外
+546,Aire,company/51826014,伦敦金融信用评分服务提供商,industry.FINANCE,phase.B,city.海外
+547,Kimera Systems,company/51772173,AI机器人研发商,industry.AI,phase.NONE,city.海外
+548,Robomart,company/51625364,美国无人驾驶零售车研发商,industry.AI,phase.NONE,city.海外
+549,Primer,company/51517909,自然语言处理系统提供商,industry.AI,phase.B,city.海外
+550,Sprinkles,company/51364725,美国照片处理APP,industry.SOFTWARE,phase.NONE,city.海外
+551,Polly.ai,company/51343775,智能聊天机器人开发商,industry.AI,phase.A,city.海外
+552,Cloverleaf,company/51319217,美国基于面部识别技术的零售系统研发商,industry.AI,phase.NONE,city.海外
+553,Mythic,company/51242075,专注于研发深度学习的神经网络芯片的公司,industry.AI,phase.B,city.海外
+554,3TEN8.AI,company/51237935,美国人工智能无线网络服务提供商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+555,Gramophone,company/51189829,农业信息化服务提供商,industry.FARMING,phase.SEED,city.海外
+556,Neurensic,company/51104177,美国市场监督服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+557,Cray,company/51084417,美国超级计算服务提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+558,Zesty.ai,company/51064737,人工智能技术研发商,industry.AI,phase.A,city.海外
+559,Voyage,company/50907260,自动驾驶汽车出行服务公司,industry.AI,phase.B,city.海外
+560,Ada Health,company/50837986,德国人工智能健康管理服务平台,industry.MEDICAL_HEALTH,phase.A,city.海外
+561,indus.ai,company/50830467,美国建筑智能服务解决方案提供商,industry.AI,phase.SEED,city.海外
+562,smilepay,company/50735957,面部和语音识别支付服务商,industry.FINANCE,phase.NONE,city.海外
+563,Influential,company/50729170,网红市场智能营销服务提供商,industry.AI,phase.B,city.海外
+564,MDacne,company/50723725,美国痤疮治疗产品开发商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+565,Gravyty,company/50435217,智能预测分析平台,industry.AI,phase.SEED,city.海外
+566,Splice Machine,company/50307533,美国AI数据库平台,industry.AI,phase.B,city.海外
+567,Comet.ml,company/50219934,机器学习平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+568,Aiqudo,company/49773788,智能语音助手研发商,industry.AI,phase.A,city.海外
+569,REX HOME,company/49772749,美国线上房产中介平台,industry.PROPERTY_AND_HOME_FURNISHINGS,phase.C,city.海外
+570,Conviva,company/49622599,视频分析技术开发商,industry.AI,phase.E,city.海外
+571,Syntiant,company/49614547,美国AI芯片研发商,industry.AI,phase.B,city.海外
+572,Semantic Machines,company/49604792,语音识别技术提供商,industry.AI,phase.ACQUIRED,city.海外
+573,QuebonTM,company/49566161,韩国人工智能数学教育服务商,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+574,Gauss Surgical,company/49069141,医疗智能产品研发商,industry.MEDICAL_HEALTH,phase.C,city.海外
+575,AlpacaJapan,company/48988720,金融交易AI解决方案提供商,industry.AI,phase.NONE,city.海外
+576,Api.ai,company/48956147,美国自然语言处理技术研发商,industry.AI,phase.ACQUIRED,city.海外
+577,Quid,company/48949166,大数据分析可视化服务提供商,industry.SERVICE_INDUSTRIES,phase.D,city.海外
+578,Bonobo AI,company/48930621,数据服务提供商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+579,I'm cloud,company/48911957,韩国智能客服机器人研发商,industry.AI,phase.A,city.海外
+580,Musical.ai,company/48888755,基于深度学习与大数据的人工智能音乐创作工具,industry.AI,phase.NONE,city.海外
+581,Prospera,company/48817497,以色列农业辅助软硬件提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+582,Domus Semo Sancus,company/48723065,美国银行账户工具开发商,industry.FINANCE,phase.NONE,city.海外
+583,CekMata,company/48618468,印度尼西亚白内障智能诊断平台,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+584,Bellgram,company/48569606,美国AI语音助手研发商,industry.AI,phase.NONE,city.海外
+585,Eternime,company/48481059,数字存储服务提供商,industry.AI,phase.INFORMAL,city.海外
+586,Celential.ai,company/48470164,AI人力资源服务提供商,industry.AI,phase.ANGEL,city.海外
+587,Peritus.ai,company/48143868,AI数据自动化服务商,industry.AI,phase.ANGEL,city.海外
+588,Affectiva,company/48059075,美国情感识别技术研发商,industry.AI,phase.D,city.海外
+589,Deep Genomics,company/48022518,加拿大基因检测服务提供商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+590,Kogniz,company/47974506,人工智能安全产品研发商,industry.AI,phase.SEED,city.海外
+591,OURS Technology,company/47953331,美国AI芯片研发商,industry.AI,phase.NONE,city.海外
+592,Teague,company/47849255,自动驾驶校车研发商,industry.AI,phase.NONE,city.海外
+593,Zirra,company/47842463,以色列投资分析服务提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+594,Ligier,company/47715934,法国无人驾驶电动巴士研发商,industry.AI,phase.NONE,city.海外
+595,CitiusTech,company/47688852,印度医疗保健IT数据运营服务商,industry.MEDICAL_HEALTH,phase.A,city.海外
+596,Clever Sense,company/47502126,美国智能推荐应用开发商,industry.AI,phase.ACQUIRED,city.海外
+597,Nauto,company/47210224,美国智能汽车摄像头研发商,industry.AI,phase.B,city.海外
+598,Mobile Technologies,company/47110583,美国语音识别和机器翻译软件研发商,industry.AI,phase.ACQUIRED,city.海外
+599,Kngine,company/46957467,美国AI搜索引擎开发商,industry.AI,phase.ACQUIRED,city.海外
+600,Optimus Ride,company/46945470,美国自动驾驶汽车技术研发商,industry.AUTO,phase.A,city.海外
+601,ZineOne,company/46928397,美国AI企业营销解决方案提供商,industry.AI,phase.A,city.海外
+602,Chatfuel,company/46800892,美国智能聊天机器人技术提供商,industry.AI,phase.SEED,city.海外
+603,AutoX,company/46765397,无人驾驶技术研发商,industry.AI,phase.A_PLUS,city.海外
+604,Vathys,company/46736451,深度学习处理器研发商,industry.AI,phase.SEED,city.海外
+605,Leena AI,company/46633065,智能HR咨询服务平台,industry.AI,phase.SEED,city.海外
+606,Authenteq,company/46511621,冰岛区块链身份验证平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+607,Wayve,company/46465802,自动驾驶系统提供商,industry.AI,phase.NONE,city.海外
+608,SnapTravel,company/46263471,酒店预订服务平台,industry.TRAVEL_OUTDOORS,phase.A_PLUS,city.海外
+609,NAM,company/46042181,日本区块链电子病历系统研发商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+610,Matroid,company/45901221,美国计算机视觉系统研发商,industry.AI,phase.A,city.海外
+611,Hutoma,company/45848205,英国深度学习技术研发商,industry.AI,phase.INFORMAL,city.海外
+612,Arraiy,company/45843960,美国AI电影制作服务提供商,industry.AI,phase.A,city.海外
+613,Comma.ai,company/45767409,自动驾驶技术研发商,industry.AI,phase.A,city.海外
+614,RoadBotics,company/45682820,美国AI道路修复解决方案提供商,industry.AI,phase.A,city.海外
+615,Bd4travel,company/45681921,德国AI数据分析公司,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+616,Biohax International,company/45558151,瑞典智能芯片提供商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+617,Perspica,company/45556787,美国人工智能数据分析公司,industry.AI,phase.ACQUIRED,city.海外
+618,CloudNC,company/45540778,人工智能软件研发商,industry.AI,phase.A,city.海外
+619,Airsquire,company/45519851,AI图像分析解决方案提供商,industry.AI,phase.NONE,city.海外
+620,洞悉科技集团,company/45409313,人工智慧安全大脑研发商,industry.AI,phase.ACQUIRED,city.海外
+621,Sam,company/45392350,西班牙智能旅游助理机器人研发商,industry.AI,phase.ACQUIRED,city.海外
+622,oneclick.ai,company/45304498,自动化人工智能平台研发商,industry.AI,phase.ANGEL,city.海外
+623,Global Fishing Watch,company/45289356,智能交互式捕鱼监控平台,industry.AI,phase.NONE,city.海外
+624,ScopeMedia,company/45242335,加拿大视频图像识别解决方案提供商,industry.AI,phase.NONE,city.海外
+625,NSynth,company/45225457,美国人工智能音乐创作商,industry.AI,phase.NONE,city.海外
+626,Ponddy Education,company/45117949,AI个性化语言学习平台,industry.AI,phase.A,city.海外
+627,pencil,company/45063678,新加坡人工智能创意平台,industry.AI,phase.PRE_A,city.海外
+628,艾伦人工智能研究所,company/44753330,机器人常识研究学习项目,industry.AI,phase.NONE,city.海外
+629,Josh.ai,company/44646360,智能语音助手硬件制造商,industry.INTELLIGENT_HARDWARE,phase.ANGEL,city.海外
+630,HiJiffy,company/44579230,葡萄牙酒店聊天机器人研发商,industry.AI,phase.NONE,city.海外
+631,Orbo Inv,company/44567637,印度计算机视觉及AI成像技术研发商,industry.AI,phase.NONE,city.海外
+632,Sift Science,company/44491958,美国AI反欺诈监控平台,industry.AI,phase.D,city.海外
+633,Suplari,company/44325799,美国企业管理公司,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+634,Jane.ai,company/44244298,美国AI及云端简化数据搜索服务提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+635,Outernets,company/44173500,美国数字媒体公司,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+636,Alcatraz AI,company/44075178,美国人脸识别技术研发商,industry.AI,phase.SEED,city.海外
+637,CrowdStrike,company/44069325,美国虚拟安全平台,industry.SERVICE_INDUSTRIES,phase.E,city.海外
+638,Ztractor,company/43926288,无人驾驶电动拖拉机研发商,industry.AI,phase.SEED,city.海外
+639,ReviveMed,company/43684400,美国小分子和代谢物数据整合平台,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+640,Fringefy,company/43677917,以色列计算机视觉技术开发商,industry.VR_AR,phase.NONE,city.海外
+641,Ademco,company/43360762,AI安防服务提供商,industry.AI,phase.NONE,city.海外
+642,Pharmapod,company/43351970,爱尔兰制药数据管理系统研发商,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+643,Ayomi,company/43300548,法国AI金融解决方案提供商,industry.AI,phase.SEED,city.海外
+644,uCare.ai,company/42936393,人工智能医疗服务提供商,industry.AI,phase.A,city.海外
+645,WorkFusion,company/42667816,美国AI技术服务提供商,industry.AI,phase.E,city.海外
+646,AR Ecommerce,company/42472936,AR电子商务服务提供商,industry.VR_AR,phase.ACQUIRED,city.海外
+647,Inbenta,company/42389767,美国自然语言处理系统研发商,industry.AI,phase.B_PLUS,city.海外
+648,Lifebit,company/42386204,英国DNA数据分析AI云平台,industry.AI,phase.SEED,city.海外
+649,Caffe465,company/41811602,美国深度学习框架研发商,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+650,Aetion,company/41772072,美国医疗数据分析技术研发商,industry.MEDICAL_HEALTH,phase.C,city.海外
+651,Goo Technologies,company/41709886,3D建模技术研发商,industry.AI,phase.ACQUIRED,city.海外
+652,SAIPS,company/41645856,计算机视觉和机器学习领域定制算法提供商,industry.AI,phase.ACQUIRED,city.海外
+653,Plume Labs,company/41487062,环保科技服务提供商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+654,Orai,company/41412277,AI演讲训练服务平台,industry.EDUCATION_TRAINING,phase.NONE,city.海外
+655,Deuro,company/41395153,基于区块链技术的人工智能服务商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+656,Educational Initiatives,company/41385755,印度教育信息化解决方案提供商,industry.EDUCATION_TRAINING,phase.INFORMAL,city.海外
+657,Fakespot,company/41074088,在线产品评论真实性鉴别平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+658,Unmanned Solution,company/41029386,韩国无人自动驾驶技术研发商,industry.AI,phase.NONE,city.海外
+659,Opsani,company/41024381,机器学习技术研发服务商,industry.AI,phase.SEED,city.海外
+660,Wowoo,company/40969618,日本区块链技术服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+661,K Health,company/40904076,美国AI健康应用程序,industry.MEDICAL_HEALTH,phase.B,city.海外
+662,SigTuple,company/40811387,印度智能医疗诊断方案提供商,industry.MEDICAL_HEALTH,phase.C,city.海外
+663,Fingerprint Cards,company/40776498,智能手机指纹身份认证技术开发商,industry.AI,phase.NONE,city.海外
+664,Mate Labs,company/40719196,印度机器学习服务平台,industry.AI,phase.A,city.海外
+665,Healthy Billion,company/40601735,印度临床研究及医疗数据分析机构,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+666,BitFusion.io,company/40601224,AI应用全流程管理平台,industry.AI,phase.A,city.海外
+667,Shelfwise,company/40485809,波兰AI零售数字化解决方案提供商,industry.AI,phase.NONE,city.海外
+668,Init.ai,company/40443636,智能语音助手服务提供商,industry.AI,phase.ACQUIRED,city.海外
+669,CLEAR,company/40406706,美国生物识别技术研发商,industry.AI,phase.INFORMAL,city.海外
+670,Bambu,company/40327091,新加坡智能投顾技术供应商,industry.AI,phase.A,city.海外
+671,VocalIQ,company/40240017,英国语音交互技术研发商,industry.AI,phase.ACQUIRED,city.海外
+672,Billycare,company/40129306,美国老年人居家护理服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+673,Element,company/40120082,美国生物识别软件开发商,industry.AI,phase.A,city.海外
+674,Regulus Cyber,company/40038462,自动驾驶服务技术研发商,industry.AI,phase.A,city.海外
+675,Jukedeck,company/39709130,英国智能音频音效制作平台,industry.MEDIA,phase.ANGEL,city.海外
+676,humanpredictions,company/39507298,美国招聘机器人研发商,industry.AI,phase.INFORMAL,city.海外
+677,DyNet,company/39442268,机器学习框架研发商,industry.AI,phase.NONE,city.海外
+678,Voicera,company/39440246,人工智能会议服务商,industry.AI,phase.A,city.海外
+679,Zoom.ai,company/39425718,加拿大AI虚拟助理研发商,industry.VR_AR,phase.A,city.海外
+680,Nexar,company/39384567,AI驾乘信息记录工具研发商,industry.AI,phase.B,city.海外
+681,Protenus,company/39276913,美国AI医疗服务提供商,industry.AI,phase.B,city.海外
+682,Applitools,company/39091475,人工智能视觉检测服务商,industry.AI,phase.C,city.海外
+683,RFISee,company/39043872,三维成像雷达传感器研发商,industry.AI,phase.NONE,city.海外
+684,Matrix,company/38965022,区块链技术研发平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+685,Vidooly,company/38916836,印度视频智能分析服务提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+686,Softweb Solutions,company/38874378,AI物联网软件开发商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+687,FRAMOS,company/38648031,视觉及图像处理技术提供商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+688,ThoughtSpot,company/38629537,数据搜索及分析软件研发商,industry.AI,phase.D,city.海外
+689,Qordaba,company/38567240,美国机器学习技术研发商,industry.AI,phase.A,city.海外
+690,Autonomos,company/38444190,德国地图导航技术研发商,industry.AUTO,phase.ACQUIRED,city.海外
+691,Blippar,company/38433384,英国图像识别技术研发商,industry.AI,phase.D,city.海外
+692,Suki,company/38265306,美国智能医疗记录系统研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+693,OrCam,company/38130667,以色列智能视觉化系统提供商,industry.AI,phase.C,city.海外
+694,UpCodes,company/38091184,美国建筑领域在线法规库,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+695,Loom Systems,company/38072194,美国人工智能预测分析服务商,industry.AI,phase.A,city.海外
+696,SingularityNET,company/37922308,瑞士分布式AI平台,industry.AI,phase.INFORMAL,city.海外
+697,Nuua Inc,company/37831824,韩国人工智能旅行计划定制服务商,industry.TRAVEL_OUTDOORS,phase.NONE,city.海外
+698,Polestar,company/37823577,瑞典电动汽车制造商,industry.AUTO,phase.NONE,city.海外
+699,Clusterone,company/37779132,美国AI平台开发技术服务商,industry.AI,phase.SEED,city.海外
+700,Ganglia,company/37600331,美国智能实时板球比分信息系统提供商,industry.AI,phase.NONE,city.海外
+701,Pixellot,company/37333740,智能摄像系统生产商,industry.AI,phase.NONE,city.海外
+702,MM Solutions AD,company/37240762,工业图形图像技术研发商,industry.AI,phase.ACQUIRED,city.海外
+703,Pinterest,company/37186255,采用瀑布流的形式展现图片内容的APP,industry.AI,phase.IPO,city.海外
+704,LunaDNA,company/37026451,美国DNA数据集成平台研发运营商,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+705,HelPal,company/36748574,土耳其人工智能精准营销服务提供商,industry.AI,phase.NONE,city.海外
+706,Ibex Medical Analytics,company/36675285,以色列AI诊断技术研发商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+707,Astound,company/36597339,AI自动化员工服务请求解决商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+708,See It Buy It,company/36454397,美国基于人工智能的服饰电商平台,industry.E_COMMERCE,phase.NONE,city.海外
+709,Dadbot,company/36420773,美国聊天机器人研发商,industry.AI,phase.NONE,city.海外
+710,Applied Intuition,company/36308096,美国自动驾驶软件研发商,industry.AUTO,phase.A,city.海外
+711,Buddy Guard,company/36178009,德国人工智能家居安全摄像头制造商,industry.AI,phase.ANGEL,city.海外
+712,AdmitHub,company/36166636,大学指导聊天机器人研发商,industry.AI,phase.ANGEL,city.海外
+713,Orb Health,company/35880411,美国智能健康管理服务平台,industry.MEDICAL_HEALTH,phase.A,city.海外
+714,WebMicroscope,company/35877389,芬兰数字病理图像分析解决方案提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+715,Vericred,company/35834387,美国医疗保健数据服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+716,Luka,company/35678701,美国聊天机器人研发商,industry.AI,phase.NONE,city.海外
+717,Owkin,company/35652953,美国医药数据智能研发商,industry.MEDICAL_HEALTH,phase.PRE_B,city.海外
+718,Neurala,company/35562422,机器学习系统研发商,industry.AI,phase.A,city.海外
+719,Qindom,company/35495370,加拿大量子智能解决方案服务商,industry.AI,phase.NONE,city.海外
+720,TensorFlight,company/35440803,计算机视觉技术研发商,industry.AI,phase.SEED,city.海外
+721,Dominode,company/35434700,区块链身份验证解决方案提供商,industry.AI,phase.ANGEL,city.海外
+722,Onward.ai,company/35356494,客服自动化服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+723,Aiden,company/35169326,智能营销系统提供商,industry.AI,phase.ANGEL,city.海外
+724,Novauris,company/35141508,英国语音识别技术研发商,industry.AI,phase.ACQUIRED,city.海外
+725,Pattern89,company/34972350,营销实验平台,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+726,Doubtnut,company/34746464,AI多语种教育在线学习平台,industry.AI,phase.PRE_A,city.海外
+727,Atreca,company/34620199,抗癌免疫疗法研发商,industry.MEDICAL_HEALTH,phase.C,city.海外
+728,Automotive Artificial Intelligence,company/34578209,德国智能仿真驾驶技术开发商,industry.AI,phase.NONE,city.海外
+729,Revuze,company/34512098,人工智能产品体验分析解决方案提供商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+730,Apical,company/34329989,计算机成像技术研发商,industry.AI,phase.ACQUIRED,city.海外
+731,Standard Cognition,company/34323972,自动结算解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+732,Verv,company/34219073,英国智能家庭能源管理服务商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+733,Brainomix,company/34063151,英国人工智能医学影像软件研发商,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+734,Rocket Fuel,company/33955227,美国程序化媒体购买平台,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+735,Directly,company/33928521,美国客服外包服务公司,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+736,Sayspring,company/33760369,美国语音输入应用开发商,industry.AI,phase.ACQUIRED,city.海外
+737,ispace technologies,company/33643265,日本月球探索技术研发商,industry.AI,phase.A,city.海外
+738,Medinfi,company/33584624,印度医院及医生在线搜索平台,industry.MEDICAL_HEALTH,phase.A,city.海外
+739,Factorial,company/33291352,西班牙中小企业人力资源软件平台,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+740,Pilot AI,company/33215811,美国计算机视觉分析技术提供商,industry.AI,phase.A,city.海外
+741,Swarm,company/33149808,美国网络机器人安全检测服务商,industry.AI,phase.ACQUIRED,city.海外
+742,Nuro.ai,company/33048200,美国自动驾驶技术研发商,industry.AI,phase.INFORMAL,city.海外
+743,Wrapidity,company/33020977,网络数据提取平台,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+744,Lvl5,company/33001244,自动驾驶地图研发商,industry.AUTO,phase.SEED,city.海外
+745,Snaps,company/32936073,企业聊天机器人及表情键盘定制平台,industry.AI,phase.A,city.海外
+746,Point Grey,company/32816992,加拿大机器视觉工业相机制造商,industry.INTELLIGENT_HARDWARE,phase.ACQUIRED,city.海外
+747,YARA Birkeland,company/32772447,挪威无人驾驶船舶研发商,industry.AI,phase.NONE,city.海外
+748,Neurable,company/32664999,美国人机交互服务平台,industry.AI,phase.A,city.海外
+749,Lattice.io,company/32642264,数据挖掘和机器学习技术研发商,industry.AI,phase.ACQUIRED,city.海外
+750,Petuum,company/32473066,机器学习解决方案开发平台,industry.AI,phase.B,city.海外
+751,Artisense Corporation,company/32426287,3D视觉技术研发商,industry.AI,phase.ANGEL,city.海外
+752,Lunewave,company/32339128,美国自动驾驶传感器装置研发商,industry.AUTO,phase.SEED,city.海外
+753,Solvvy,company/32133666,美国机器学习技术研发商,industry.AI,phase.SEED,city.海外
+754,QM Scientific,company/32107953,美国基于人工智能的购物推荐服务商,industry.AI,phase.ACQUIRED,city.海外
+755,Recognant,company/31906715,人工智能技术研发商,industry.AI,phase.NONE,city.海外
+756,Wave Computing,company/31832912,人工智能芯片制造商,industry.AI,phase.NONE,city.海外
+757,Zaitech,company/31759850,P2P借贷服务提供商,industry.FINANCE,phase.ACQUIRED,city.海外
+758,Plix,company/31698982,AI照片视频分享软件运营商,industry.AI,phase.ACQUIRED,city.海外
+759,Indigo,company/31588624,美国农业大数据公司,industry.FARMING,phase.D,city.海外
+760,Epsagon,company/31548828,以色列无服务性能监测服务提供商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+761,Quantifi,company/31443472,提升数字广告测试效果的平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+762,Afficient Academy,company/31436061,美国自适应学习系统服务提供商,industry.EDUCATION_TRAINING,phase.A,city.海外
+763,Mattersight,company/31173970,基于语音识别技术的个性化广告投放商,industry.AI,phase.NONE,city.海外
+764,Unbxd,company/31152982,印度人工智能导购平台,industry.E_COMMERCE,phase.C,city.海外
+765,Mindset Medical,company/31085031,美国健康管理及医疗保健服务平台,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+766,Numero Seven,company/30963541,印度人工智能招聘服务提供商,industry.AI,phase.ANGEL,city.海外
+767,HelloAva,company/30929409,美妆护肤聊天机器人研发商,industry.AI,phase.ANGEL,city.海外
+768,AIMatter,company/30862688,白俄罗斯计算机视觉技术研发商,industry.AI,phase.ACQUIRED,city.海外
+769,Stream TV Networks,company/30805409,美国裸眼3D技术研发商,industry.AI,phase.NONE,city.海外
+770,Augment Solutions,company/30762561,智能客服技术服务商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+771,CEVA,company/30693023,美国半导体知识产权授权服务商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+772,A2IA,company/30677308,法国文本识别软件研发商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+773,Universal Logic,company/30627762,美国AI工业机器人研发商,industry.ROBOT,phase.NONE,city.海外
+774,RowdMap,company/30516091,美国医疗数据分析服务商,industry.MEDICAL_HEALTH,phase.ACQUIRED,city.海外
+775,Remesh,company/30333732,美国聊天机器人研发商,industry.AI,phase.A,city.海外
+776,Microscan,company/30327809,美国条码阅读设备与机器视觉技术研发商,industry.AI,phase.ACQUIRED,city.海外
+777,Neuralink,company/30275286,美国脑机接口芯片研发商,industry.AI,phase.A,city.海外
+778,Aquantia,company/30176575,美国人工智能芯片生产商,industry.AI,phase.ACQUIRED,city.海外
+779,Neura,company/30162266,AI智能家居技术研发服务商,industry.AI,phase.NONE,city.海外
+780,PreAct Technologies,company/29781797,美国汽车防撞系统研发商,industry.AUTO,phase.ANGEL,city.海外
+781,MindMeld,company/29620612,美国AI辅助人机对话服务商,industry.AI,phase.ACQUIRED,city.海外
+782,Ribbon Health,company/29362423,美国医疗大数据服务提供商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+783,Lunit,company/29302991,韩国医疗影像分析服务提供商,industry.MEDICAL_HEALTH,phase.A_PLUS,city.海外
+784,Kernel,company/29213041,AI芯片服务提供商,industry.AI,phase.NONE,city.海外
+785,Scout,company/29194918,美国人工智能及科技领域资讯媒体,industry.MEDIA,phase.NONE,city.海外
+786,Fintonic,company/29177505,以移动为中心的消费银行平台,industry.FINANCE,phase.C,city.海外
+787,Flinks,company/29086849,金融AI解决方案提供商,industry.AI,phase.SEED,city.海外
+788,Noodle.ai,company/28933926,智能机器学习系统开发商,industry.AI,phase.B,city.海外
+789,PredictiveHire,company/28829145,澳大利亚员工招聘工具开发商,industry.AI,phase.NONE,city.海外
+790,Mobileye,company/28729247,荷兰单目视觉驾驶辅助系统研发商,industry.AUTO,phase.ACQUIRED,city.海外
+791,Demisto,company/28498634,安全聊天机器人研发商,industry.AI,phase.C,city.海外
+792,Foretellix,company/28404645,以色列智能自动化系统研发商,industry.AI,phase.A,city.海外
+793,Klout,company/28356564,线上社交媒体影响力打分平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+794,Ovation,company/28301440,基于临床数据的云信息系统研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+795,EyeSight,company/28268248,以色列驾驶员注意力监测系统研发商,industry.AI,phase.INFORMAL,city.海外
+796,LivePerson,company/28255198,美国聊天机器人研发商,industry.AI,phase.NONE,city.海外
+797,Cogito,company/28102228,人工智能实时反馈服务提供商,industry.AI,phase.C,city.海外
+798,Element AI,company/27815470,AI技术服务提供商,industry.AI,phase.A,city.海外
+799,SmartLens,company/27706504,美国人工智能图像识别平台,industry.AI,phase.NONE,city.海外
+800,GrokStyle,company/27679329,智能家居选购服务提供商,industry.AI,phase.ACQUIRED,city.海外
+801,Harvest.ai,company/27654184,基于AI的网络安全服务商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+802,TenMarks,company/27604623,美国在线教育服务平台,industry.EDUCATION_TRAINING,phase.ACQUIRED,city.海外
+803,Restless Bandit,company/27604029,美国招聘平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+804,YoloData INC.,company/27485256,美国智能数据分析服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+805,Travelsify,company/27478737,卢森堡人工智能内容分析平台,industry.AI,phase.ANGEL,city.海外
+806,Cerebras Systems,company/27437781,AI芯片技术及产品研发商,industry.AI,phase.A,city.海外
+807,Ascending Technologies,company/27162755,德国消费级无人机研发商,industry.UAV,phase.NONE,city.海外
+808,GeoSpark,company/27156047,AI定位追踪技术提供商,industry.AI,phase.ANGEL,city.海外
+809,Dotin.us,company/27151195,美国人工智能用户画像服务提供商,industry.AI,phase.SEED,city.海外
+810,VPDiagnostic,company/27116931,美国疾病诊断分析软件研发商,industry.MEDICAL_HEALTH,phase.ACQUIRED,city.海外
+811,One Concern,company/26933266,美国AI灾害预测技术研发商,industry.AI,phase.A,city.海外
+812,Botnik,company/26855197,人工智能写作算法研发商,industry.AI,phase.INFORMAL,city.海外
+813,NTechLab,company/26851461,俄罗斯面部情绪识别技术研发商,industry.AI,phase.NONE,city.海外
+814,Dayli Intelligence,company/26820696,韩国AI数据聚合及分析服务提供商,industry.AI,phase.INFORMAL,city.海外
+815,Algorythma,company/26620555,区块链技术服务平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+816,MXNet,company/26508770,深度学习开源框架,industry.AI,phase.NONE,city.海外
+817,Neurotrack,company/26485067,美国AI记忆检测系统研发商,industry.AI,phase.B,city.海外
+818,Osaro,company/26268447,美国机器人深度学习技术研发商,industry.AI,phase.A,city.海外
+819,ID2020,company/26249411,区块链身份识别服务提供商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+820,Consensus,company/26198330,爱沙尼亚金融科技服务商,industry.FINANCE,phase.NONE,city.海外
+821,Spare5,company/26120954,美国人工智能众包培训平台,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+822,Vineti,company/25980613,美国治疗数据记录平台,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+823,Medial EarlySign,company/25973124,以色列医疗AI医疗服务商,industry.AI,phase.B,city.海外
+824,LegalSifter,company/25938990,美国合同智能检测服务平台,industry.AI,phase.INFORMAL,city.海外
+825,Suprema,company/25924469,韩国智能门禁控制器研发商,industry.AI,phase.NONE,city.海外
+826,Innefu,company/25828172,基于人工智能技术的网络安全解决方案提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+827,Sentient Technologies,company/25609351,美国分布式人工智能平台开发商,industry.AI,phase.NONE,city.海外
+828,BrainVu,company/25571354,AI情绪识别服务提供商,industry.AI,phase.ACQUIRED,city.海外
+829,Instabase,company/25363092,社交网络数据公司,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+830,Augury,company/25150349,美国AI机器诊断解决方案提供商,industry.AI,phase.C,city.海外
+831,Kuants,company/24960221,印度人工智能算法投资交易平台,industry.FINANCE,phase.SEED,city.海外
+832,ViSenze,company/24928843,新加坡可视化搜索及图像识别技术研发商,industry.AI,phase.C,city.海外
+833,Aqronos,company/24700583,美国无人驾驶技术研发商,industry.AUTO,phase.NONE,city.海外
+834,Chronocam,company/24569419,视觉传感器研发商,industry.AI,phase.B,city.海外
+835,Woebot,company/24553819,心理治愈系实时聊天机器人研发商,industry.AI,phase.A,city.海外
+836,Descartes Labs,company/24538845,农业数据分析预测及解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+837,Aiva Health,company/24524180,美国AI语音辅助医疗服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+838,Dynatrace,company/24292710,智能软件研发平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+839,Motion Gestures,company/24256064,加拿大手势识别软件开发商,industry.AI,phase.SEED,city.海外
+840,Allganize,company/24247131,美国企业营销服务提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+841,Lumotive,company/24197914,美国激光雷达研发商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+842,LivingLens,company/24128445,视频分析技术服务商,industry.AI,phase.B,city.海外
+843,RealFace,company/24119917,以色列面部识别技术提供商,industry.AI,phase.ACQUIRED,city.海外
+844,Cubic Motion,company/24036951,英国机器视觉动画技术开发商,industry.AI,phase.A,city.海外
+845,RobArt,company/24003174,奥地利机器人人工智能控制单元开发商,industry.ROBOT,phase.B,city.海外
+846,Kylie.ai,company/23918674,聊天机器人研发商,industry.AI,phase.NONE,city.海外
+847,Florence Healthcare,company/23703897,美国医药数据化解决方案提供商,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+848,BrandShield,company/23621436,美国AI反诈骗平台,industry.AI,phase.INFORMAL,city.海外
+849,Cognoa,company/23586129,儿童健康智能评估服务提供商,industry.AI,phase.A,city.海外
+850,Algorithmia,company/23325133,美国人工智能算法交易服务平台,industry.AI,phase.A,city.海外
+851,Tilak Healthcare,company/23304070,法国游戏诊断服务平台,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+852,Optolexia,company/23299102,智能阅读障碍筛查软件开发商,industry.AI,phase.INFORMAL,city.海外
+853,NCI,company/23211107,美国企业解决方案和服务提供商,industry.SERVICE_INDUSTRIES,phase.IPO,city.海外
+854,Liopa,company/23095635,移动生物识别解决方案提供商,industry.AI,phase.INFORMAL,city.海外
+855,Insilico Medicine,company/23093810,美国抗衰老及癌症治疗药物研发商,industry.MEDICAL_HEALTH,phase.INFORMAL,city.海外
+856,Arimo,company/23075825,行为预测平台,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+857,Blink Identity,company/23057752,美国人脸识别技术研发商,industry.AI,phase.SEED,city.海外
+858,FanAI,company/22941653,美国AI电竞服务提供商,industry.AI,phase.INFORMAL,city.海外
+859,Reveal Biosciences,company/22786373,AI病理学服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+860,Bibblio,company/22758813,英国内容智能推荐公司,industry.AI,phase.ANGEL,city.海外
+861,Recursion Pharmaceuticals,company/22684391,智能药物发现平台,industry.AI,phase.B,city.海外
+862,PromoRepublic,company/22507494,基于人工智能的中小企业社交解决方案提供商,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+863,ObEN,company/22476828,美国人工智能技术研究公司,industry.AI,phase.INFORMAL,city.海外
+864,Pulsifi,company/22361157,新加坡HR服务提供商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+865,EuMotus,company/22339931,基于人工智能的健身服务提供商,industry.SPORTS,phase.NONE,city.海外
+866,Chorus.ai,company/22338257,电话销售内容分析服务提供商,industry.AI,phase.B,city.海外
+867,Thread Genius,company/22277106,图像识别及智能推荐技术研发应用商,industry.AI,phase.ACQUIRED,city.海外
+868,Kaiku Health,company/22254570,芬兰智能健康数据管理服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+869,Cognitive Pilot,company/22103078,4D成像汽车雷达研发商,industry.AUTO,phase.NONE,city.海外
+870,Onshape,company/22091247,美国CAD技术研发商,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+871,ScyllaDB,company/21701937,以色列NoSQL数据库提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+872,Canvas Technology,company/21668607,美国仓储机器人研发商,industry.ROBOT,phase.ACQUIRED,city.海外
+873,Rulai,company/21344670,美国智能客服研发商,industry.AI,phase.ANGEL,city.海外
+874,Avvio,company/21060978,爱尔兰聊天机器人研发商,industry.AI,phase.NONE,city.海外
+875,Anaek Soft,company/21020626,印度聊天机器人研发商,industry.AI,phase.SEED,city.海外
+876,Temi,company/20995237,美国智能家用机器人研发商,industry.ROBOT,phase.B,city.海外
+877,Charlie,company/20981164,美国AI理财聊天机器人平台研发商,industry.AI,phase.A,city.海外
+878,Savari,company/20803570,美国汽车V2X技术研发商,industry.AI,phase.B,city.海外
+879,Wide Mobility Mechatronics,company/20605539,机器视觉技术研发及检测解决方案提供商,industry.AI,phase.SEED,city.海外
+880,Ojo Labs,company/20407412,美国AI房地产客服机器人研发商,industry.AI,phase.C,city.海外
+881,icometrix,company/20406422,美国AI脑部成像技术服务商,industry.AI,phase.A,city.海外
+882,YouSpace,company/20401424,美国智能系统解决方案提供商,industry.VR_AR,phase.INFORMAL,city.海外
+883,Amon,company/20187162,爱沙尼亚电子钱包智能加密借记卡,industry.FINANCE,phase.NONE,city.海外
+884,Viv Labs,company/20107336,人工智能产品分发平台,industry.AI,phase.ACQUIRED,city.海外
+885,TrustCheckr,company/20065958,印度AI欺诈分析解决方案提供商,industry.AI,phase.ANGEL,city.海外
+886,PullString,company/19916054,个人智能语音助手研发商,industry.AI,phase.ACQUIRED,city.海外
+887,Oovvuu,company/19877957,AI视频处理服务提供商,industry.AI,phase.ANGEL,city.海外
+888,Laserlike,company/19866101,美国机器学习搜索引擎开发商,industry.AI,phase.ACQUIRED,city.海外
+889,LCA  Learning,company/19753921,AI面部分析技术研发商,industry.AI,phase.NONE,city.海外
+890,Diaceutics,company/19626287,英国药物诊断检测服务商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+891,OM1,company/19550633,美国医疗结果智能诊断分析服务提供商,industry.MEDICAL_HEALTH,phase.B,city.海外
+892,Mezi,company/19542218,AI聊天机器人研发商,industry.AI,phase.ACQUIRED,city.海外
+893,Vi,company/19398894,美国人工智能健身耳机研发商,industry.INTELLIGENT_HARDWARE,phase.B,city.海外
+894,Niramai Health Analytix,company/19283335,AI检测早期乳腺癌的平台,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+895,Movyl,company/19196283,智能社交营销平台,industry.AI,phase.NONE,city.海外
+896,DigitalGenius,company/19173072,英国人机交互服务提供商,industry.AI,phase.A,city.海外
+897,Verge Genomics,company/19041282,美国药物研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+898,AImotive,company/19020220,自动驾驶技术开发商,industry.AI,phase.C,city.海外
+899,Marketing Evolution,company/18919616,美国人工智能营销平台,industry.AI,phase.B,city.海外
+900,Behavox,company/18877850,英国AI监控系统研发商,industry.AI,phase.B,city.海外
+901,Pefin,company/18737230,人工智能财务顾问服务提供商,industry.FINANCE,phase.NONE,city.海外
+902,Magic AI,company/18696682,机器学习技术研发服务商,industry.AI,phase.SEED,city.海外
+903,Tupl,company/18690860,专注于服务电信公司的客户服务软件提供商,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+904,SIGRA Technologies,company/18653974,德国无人驾驶系统研发商,industry.AI,phase.NONE,city.海外
+905,Taiger,company/18574390,西班牙虚拟助手研发商,industry.AI,phase.A,city.海外
+906,D-ID,company/18505389,以色列自动反人脸识别系统提供商,industry.AI,phase.SEED,city.海外
+907,Actify Data Labs,company/18446218,印度人工智能数据服务提供商,industry.AI,phase.A,city.海外
+908,GeneData,company/18194738,瑞士基因数据分析服务平台,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+909,Affable,company/17934081,新加坡影响力营销平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+910,Hazy,company/17673137,英国基于云的AI解决方案提供商,industry.AI,phase.SEED,city.海外
+911,Biofourmis,company/17650667,新加坡个人生理数据分析服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+912,Xenodata Lab,company/17440273,人工智能财务数据分析服务商,industry.AI,phase.A,city.海外
+913,Unlearn.AI,company/17291389,美国阿尔茨海默病AI预测技术研发商,industry.AI,phase.NONE,city.海外
+914,XNOR.ai,company/17142285,图像识别技术研发商,industry.AI,phase.A,city.海外
+915,Post Intelligence,company/17111304,社交媒体编辑助理,industry.AI,phase.NONE,city.海外
+916,Maluuba,company/16986834,强化学习技术研发应用服务商,industry.AI,phase.ACQUIRED,city.海外
+917,Wallarm,company/16851771,美国AI网络安全服务平台,industry.AI,phase.A,city.海外
+918,Lighhouse,company/16805644,美国AI安全摄像头生产商,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+919,FotoNation,company/16791741,虹膜识别解决方案提供商,industry.VR_AR,phase.NONE,city.海外
+920,riskmethods,company/16620742,德国供应链风险管理解决方案提供商,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+921,ABEJA,company/16610450,日本机器学习应用研发商,industry.AI,phase.C,city.海外
+922,Deep Lens,company/16481520,数字病理学套件研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+923,CytoReason,company/16421628,以色列AI模型医疗技术研发商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+924,Canvass Analytics,company/16292212,加拿大AI预测分析平台,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+925,Workfit,company/16191464,AI会议服务产品研发服务商,industry.AI,phase.SEED,city.海外
+926,HeartFlow,company/16109826,美国心血管辅助诊断服务提供商,industry.MEDICAL_HEALTH,phase.E,city.海外
+927,Spirit AI,company/16103872,辱骂行为检测和干预系统研发商,industry.AI,phase.NONE,city.海外
+928,One Labs,company/15852620,AI虚拟助手研发商,industry.AI,phase.SEED,city.海外
+929,Automation Anywhere,company/15803102,机器处理自动化技术服务提供商,industry.AI,phase.A_PLUS,city.海外
+930,Faceshift,company/15720923,瑞士实时动作捕捉技术提供商,industry.VR_AR,phase.ACQUIRED,city.海外
+931,Wluper,company/15712719,智能导航技术研发商,industry.AI,phase.SEED,city.海外
+932,H1,company/15706211,美国AI医疗数据库研发商,industry.AI,phase.INFORMAL,city.海外
+933,Skyline AI,company/15684122,以色列AI房地产投资服务商,industry.AI,phase.A,city.海外
+934,Avenda Health,company/15642828,美国前列腺癌微创治疗服务提供商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+935,Bark,company/15634651,美国儿童网络安全监控解决方案提供商,industry.AI,phase.A,city.海外
+936,Cognata,company/15485899,VR自动驾驶测试平台,industry.VR_AR,phase.B,city.海外
+937,TRI-AD,company/15369201,美国自动驾驶汽车软件技术研发商,industry.AI,phase.NONE,city.海外
+938,Moesif,company/15361251,美国人工智能API服务平台,industry.AI,phase.SEED,city.海外
+939,Auviz Systems,company/15295753,美国AI芯片研发商,industry.AI,phase.ACQUIRED,city.海外
+940,Outlier,company/15217240,美国数据分析服务提供商,industry.SERVICE_INDUSTRIES,phase.A,city.海外
+941,snap40,company/14946958,英国智能医疗监测设备研发商,industry.MEDICAL_HEALTH,phase.SEED,city.海外
+942,Mariana,company/14737225,营销自动化服务提供商,industry.AI,phase.ANGEL,city.海外
+943,VisionLabs,company/14666048,俄罗斯用户身份识别软件开发商,industry.AI,phase.INFORMAL,city.海外
+944,Imagu,company/14627074,以色列图像理解技术研发商,industry.AI,phase.ACQUIRED,city.海外
+945,Bonify,company/14608912,德国信用评分服务提供商,industry.FINANCE,phase.B,city.海外
+946,Scape Technologies,company/14532924,英国机器视觉技术开发商,industry.AI,phase.SEED,city.海外
+947,CarVi,company/14463814,高级驾驶辅助系统研发商,industry.AI,phase.NONE,city.海外
+948,Growbots,company/14182095,营销自动化平台,industry.SERVICE_INDUSTRIES,phase.PRE_A,city.海外
+949,WISEfn Partners,company/13900441,机器人投顾服务提供商,industry.FINANCE,phase.NONE,city.海外
+950,Averon,company/13667119,美国智能手机ID自动认证技术研发商,industry.AI,phase.A_PLUS,city.海外
+951,Nebula AI,company/13600741,加拿大分散式区块链提供商,industry.FINANCE,phase.NONE,city.海外
+952,XRVision,company/13506481,新加坡面部识别技术研发商,industry.AI,phase.ANGEL,city.海外
+953,美国ForeTHought,company/13472417,美国人工智能产品提供商,industry.AI,phase.A,city.海外
+954,DMscore,company/13307550,数字营销服务商与需求方对接平台,industry.SERVICE_INDUSTRIES,phase.SEED,city.海外
+955,Ottopia,company/13294089,以色列自动驾驶遥操作平台运营商,industry.AUTO,phase.SEED,city.海外
+956,FaceMetrics,company/13088091,智能监测系统提供商,industry.AI,phase.SEED,city.海外
+957,UltraHaptics,company/13016471,超声触感技术研发商,industry.AI,phase.C,city.海外
+958,Steradian Semi,company/12986463,AI雷达技术研发商,industry.AI,phase.INFORMAL,city.海外
+959,Packback,company/12977745,基于AI的社交问答式学习平台,industry.AI,phase.A,city.海外
+960,Ticktock,company/12921500,家庭机器人产品研发商,industry.ROBOT,phase.NONE,city.海外
+961,Cinnamon,company/12919786,日本人工智能行业解决方案提供商,industry.AI,phase.B_PLUS,city.海外
+962,Kip,company/12885079,美国电商客服机器人研发商,industry.AI,phase.NONE,city.海外
+963,Converseon,company/12724046,美国人工智能社交数据分析平台,industry.AI,phase.A,city.海外
+964,Piavita,company/12622288,瑞士马匹健康检测服务商,industry.MEDICAL_HEALTH,phase.A,city.海外
+965,SmartAssist,company/12620940,人工智能客服平台,industry.AI,phase.A,city.海外
+966,Citrine Informatics,company/12611810,AI动力材料研发商,industry.AI,phase.A,city.海外
+967,roybi,company/12467723,美国AI陪伴教育机器人研发商,industry.ROBOT,phase.NONE,city.海外
+968,Databricks,company/12369278,提供大数据和人工智能软件的公司,industry.SERVICE_INDUSTRIES,phase.E,city.海外
+969,CaliberMind,company/12264722,利用人工智能进行情感分析软件,industry.AI,phase.ANGEL,city.海外
+970,Oral-B,company/12193879,美国电动牙刷品牌,industry.INTELLIGENT_HARDWARE,phase.NONE,city.海外
+971,Healio,company/12171409,美国基因测序数据服务提供商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+972,OTUS,company/12089739,美国人体识别软件,industry.AI,phase.ACQUIRED,city.海外
+973,Dataperformers,company/12027620,人工智能视频识别技术研发服务商,industry.AI,phase.NONE,city.海外
+974,Everseen,company/12020059,爱尔兰智能零售服务技术提供商,industry.AI,phase.UNKNOWN,city.海外
+975,Parlamind,company/11957626,德国人工智能客服平台,industry.AI,phase.SEED,city.海外
+976,Price Hacker,company/11860659,美国差价退款申请智能应用,industry.SOFTWARE,phase.NONE,city.海外
+977,Koko,company/11854316,聊天机器人研发商,industry.AI,phase.A,city.海外
+978,Ditto,company/11725180,英国人工智能行业应用服务商,industry.AI,phase.ANGEL,city.海外
+979,FriendlyData,company/11716933,美国自然语言搜索技术服务提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+980,Clinc,company/11668513,聊天机器人研发商,industry.AI,phase.A,city.海外
+981,Curai,company/11617688,美国AI诊断服务提供商,industry.MEDICAL_HEALTH,phase.ANGEL,city.海外
+982,MaxQ AI,company/11569613,美国智能诊断产品研发商,industry.MEDICAL_HEALTH,phase.NONE,city.海外
+983,Betterhalf.ai,company/11522887,印度人工智能情侣配对平台,industry.SOCIAL_NETWORK,phase.SEED,city.海外
+984,AlgoMerchant,company/11472306,新加坡人工智能投资平台,industry.FINANCE,phase.SEED,city.海外
+985,Elves,company/11466623,埃及智能客服系统研发商,industry.AI,phase.SEED,city.海外
+986,Frustum,company/11437347,美国设计软件公司,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+987,Diffbot,company/11369590,人工智能网页内容抓取技术研发商,industry.AI,phase.A,city.海外
+988,Kiva,company/11333323,智能物流机器人研发商,industry.ROBOT,phase.ACQUIRED,city.海外
+989,Betterment,company/11247978,美国机器人智能投资顾问平台,industry.FINANCE,phase.E,city.海外
+990,Abundy,company/11229541,智能量化投资解决方案提供商,industry.FINANCE,phase.ANGEL,city.海外
+991,Outcome Health,company/11092580,美国医疗大数据服务提供商,industry.MEDICAL_HEALTH,phase.A,city.海外
+992,NuTonomy,company/11050599,无人驾驶出租车研发商,industry.AI,phase.ACQUIRED,city.海外
+993,ElMindA,company/10726246,以色列脑部医疗设备提供商,industry.MEDICAL_HEALTH,phase.C,city.海外
+994,Cota,company/10662607,美国肿瘤学数据分析服务商,industry.MEDICAL_HEALTH,phase.B,city.海外
+995,Corrigon,company/10650235,计算机视觉和视觉搜索技术服务商,industry.AI,phase.ACQUIRED,city.海外
+996,ZMP,company/10638927,日本无人驾驶技术服务商,industry.AUTO,phase.NONE,city.海外
+997,Strobe,company/10430427,美国激光探测与测量技术研发商,industry.AI,phase.ACQUIRED,city.海外
+998,BrainQ,company/10384147,以色列AI医疗服务商,industry.AI,phase.NONE,city.海外
+999,Douugh,company/10187443,美国人工智能理财助手应用,industry.FINANCE,phase.SEED,city.海外
+1000,Marinus,company/10185585,美国人脸识别技术的公司,industry.AI,phase.INFORMAL,city.海外
+1001,Mark Labs,company/10179049,美国基于人工智能的影响分析平台,industry.SERVICE_INDUSTRIES,phase.ANGEL,city.海外
+1002,Racetrack.ai,company/10132343,印度AI营销服务提供商,industry.SERVICE_INDUSTRIES,phase.PRE_A,city.海外
+1003,Sonde Health,company/10096714,美国智能诊断技术研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+1004,Talla,company/10063440,虚拟助手机器人研发商,industry.AI,phase.A,city.海外
+1005,Tarjimly,company/10046497,聊天机器人研发商,industry.AI,phase.NONE,city.海外
+1006,Swift Medical,company/10023826,加拿大伤口护理数据分析系统研发商,industry.MEDICAL_HEALTH,phase.A,city.海外
+1007,Accompany,company/9785955,美国基于人工智能的关系情报工具,industry.SOFTWARE,phase.ACQUIRED,city.海外
+1008,Innoetics,company/9613033,希腊语音技术研发商,industry.AI,phase.ACQUIRED,city.海外
+1009,Realeyes,company/9566015,人脸情绪识别和行为反应分析技术提供商,industry.AI,phase.A,city.海外
+1010,West Elm,company/9486770,美国家具及家居零售商,industry.PROPERTY_AND_HOME_FURNISHINGS,phase.NONE,city.海外
+1011,Vinclu,company/9384381,虚拟智能助手开发商,industry.AI,phase.INFORMAL,city.海外
+1012,Interactions,company/9231329,美国语音识别技术研发商,industry.AI,phase.E,city.海外
+1013,Oryx Vision,company/9223788,以色列车载雷达研发商,industry.AUTO,phase.B,city.海外
+1014,Deep Instinct,company/9049768,以色列人工智能网络安全公司,industry.SERVICE_INDUSTRIES,phase.B,city.海外
+1015,Vector.ai,company/8858871,整车无人驾驶解决方案开发商,industry.AUTO,phase.NONE,city.海外
+1016,Scaled Inference,company/8364011,美国AI智能计算技术研发商,industry.AI,phase.A,city.海外
+1017,DefinedCrowd,company/8363977,美国人工智能数据平台,industry.AI,phase.NONE,city.海外
+1018,MatrixCare,company/8358949,美国急症护理电子健康记录软件供应商,industry.MEDICAL_HEALTH,phase.ACQUIRED,city.海外
+1019,Exabel,company/8275718,挪威金融监控工具研发商,industry.FINANCE,phase.PRE_A,city.海外
+1020,Blackbird Technologies,company/8262640,技术解决方案提供商,industry.SERVICE_INDUSTRIES,phase.ACQUIRED,city.海外
+1021,LeanFM,company/8116998,智能楼宇设备研发商,industry.AI,phase.NONE,city.海外
+1022,ArtAdvisor,company/8067522,艺术领域机器学习技术研发服务商,industry.AI,phase.ACQUIRED,city.海外
+1023,hellocomet,company/7949100,智能引擎研发商,industry.AI,phase.A,city.海外
+1024,Newsight Imaging,company/7769266,以色列智能图像传感器芯片研发商,industry.AI,phase.NONE,city.海外
+1025,RIKAI Labs,company/7522465,美国智能聊天机器人研发商,industry.AI,phase.NONE,city.海外
+1026,Mosaix,company/7486068,美国语音AI技术服务商,industry.AI,phase.NONE,city.海外
+1027,Blue Canoe Learning,company/7446409,人工智能语言学习服务提供商,industry.AI,phase.SEED,city.海外
+1028,Orreco,company/7315408,爱尔兰机器学习及性能统计技术研发商,industry.AI,phase.A,city.海外
+1029,Transcriptic,company/7296409,生物实验室机器人研发商,industry.ROBOT,phase.A_PLUS,city.海外
+1030,Magna International,company/7184093,加拿大汽车零部件供应商,industry.AUTO,phase.IPO,city.海外
+1031,Regaind,company/7157789,法国图像识别技术研发商,industry.AI,phase.ACQUIRED,city.海外
+1032,aiCTX,company/7092344,瑞士类脑芯片厂商,industry.AI,phase.PRE_A,city.海外
+1033,Rockstart,company/7088116,创业加速器,industry.SERVICE_INDUSTRIES,phase.NONE,city.海外
+1034,EOS,company/6830194,韩国基于共识机制的区块链操作系统,industry.SERVICE_INDUSTRIES,phase.INFORMAL,city.海外
+1035,AI Buddy,company/6565482,儿童陪伴虚拟助手研发商,industry.AI,phase.NONE,city.海外
+1036,DeepScale,company/6506906,辅助安全驾驶的车辆感知系统研发商,industry.AUTO,phase.A,city.海外
+1037,Subtle Medical,company/6384440,美国AI医疗成像解决方案提供商,industry.AI,phase.PRE_A,city.海外
+1038,American Center for Mobility,company/6351588,美国自动驾驶测试中心,industry.AI,phase.A,city.海外
+1039,GreyAtom,company/6313013,印度AI拍照答题服务提供商,industry.AI,phase.SEED,city.海外
